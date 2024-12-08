@@ -6,13 +6,15 @@ Trang web bán bánh
 
 **Website:** https://namvuong.org/
 
+**Admin panel:** https://namvuong.org/django/admin_panel/
+
 **username:** tiemcuagio_admin
 
 **password:** cachmangthang8
 ## Mục tiêu
-- Tạo đơn, thanh toán
+- Thêm vào giỏ hàng
 - Thanh toán trực tuyến, thanh toán dư sẽ lưu vào số dư trong tài khoản
-- NGười dùng có thể yêu cầu rút tiền dư trong tài khoản 
+- Người dùng có thể yêu cầu rút tiền dư trong tài khoản 
 - Xem trạng thái đơn hàng, hủy đơn
 - Nhận thông báo khi lên cấp và trạng thái đơn hàng thay đổi
 - 
@@ -26,7 +28,7 @@ Trang web bán bánh
 ## Tổ chức code
 ### website-design directory
 Viết chi tiết thiết kế backend. Database-schema là trái tim của dự án vẽ lại toàn bộ cơ sở dữ liệu và liên kết.
-Thư mục diagrams chứa cách flowchart của các chức năng như thanh toán, bình luận..
+Thư mục diagrams chứa cách flowchart của các chức năng như thanh toán, bình luận. order-states-flowchart là một file rất quan trọng bao gồm 7 hướng đi một đơn hàng có thể trải qua, màu đỏ tô nơi thay đổi trạng thái.
 
 File api_documentation.odt ghi toàn bộ api links
 
@@ -48,6 +50,7 @@ Chứa phần backend của website
 Chứa phần font-end của website
 
 ## Minh họa website
+### User
 Càng lên cấp trang web càng được trang trí nhiều hơn
 ![level](./images/level.png)
 
@@ -56,7 +59,7 @@ Xem trạng thái đơn hàng
 
 
 ---
-**ADMIN**
+### Admin 
 Viết bài cho sản phẩm 
 ![create_product](./images/create_product.png)
 
