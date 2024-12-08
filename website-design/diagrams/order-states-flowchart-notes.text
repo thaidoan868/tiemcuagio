@@ -1,0 +1,8 @@
+flowchart vẽ trạng thái của đơn ở các thời điểm khác nhau
+1 đơn 1 thời điểm 1 trạng thái
+Muốn đạt trạng thái nào đó phải đi theo mũi tên để đạt được
+
+Chữ màu đỏ trên mỗi trạng thái miêu ta điều kiện để một đơn bất kỳ chuyển thành trạng thái đó
+vd: trạng thái A có chữ màu đỏ, nội dung của đoạn văn màu đỏ: 
+1. Nơi bỏ 1 order bất kỳ vào để chuyển sang trạng thái A
+2. Điều kiện để chuyển sang trạng thái A
