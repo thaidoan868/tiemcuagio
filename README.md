@@ -11,7 +11,7 @@ Trang web bán bánh
 **username:** tiemcuagio_admin
 
 **password:** cachmangthang8
-## Mục tiêu
+## 1. Mục tiêu
 - Thêm vào giỏ hàng
 - Thanh toán trực tuyến, thanh toán dư sẽ lưu vào số dư trong tài khoản
 - Người dùng có thể yêu cầu rút tiền dư trong tài khoản 
@@ -25,7 +25,7 @@ Trang web bán bánh
 - Trang admin chỉnh sửa nội dung trang web
 - Thêm sản phẩm, viết bài, duyệt đơn
 
-## Tổ chức code
+## 2. Tổ chức files
 ### website-design directory
 Viết chi tiết thiết kế backend. Database-schema là trái tim của dự án vẽ lại toàn bộ cơ sở dữ liệu và liên kết.
 Thư mục diagrams chứa cách flowchart của các chức năng như thanh toán, bình luận. order-states-flowchart là một file rất quan trọng bao gồm 7 hướng đi một đơn hàng có thể trải qua, màu đỏ tô nơi thay đổi trạng thái.
@@ -46,10 +46,10 @@ có file bash resize.sh để giảm kích thước ảnh giúp website mượt 
 ### tiemcuagio_django  directory
 Chứa phần backend của website
 
-## tiemcuagio-react directory
+### tiemcuagio-react directory
 Chứa phần font-end của website
 
-## Minh họa website
+## 3. Minh họa website
 ### User
 Càng lên cấp trang web càng được trang trí nhiều hơn
 ![level](./images/level.png)
