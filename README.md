@@ -24,7 +24,7 @@ Trang web bán bánh
 - Thêm sản phẩm, viết bài, duyệt đơn
 
 ## Tổ chức code
-### website-design
+### website-design directory
 Viết chi tiết thiết kế backend. Database-schema là trái tim của dự án vẽ lại toàn bộ cơ sở dữ liệu và liên kết.
 Thư mục diagrams chứa cách flowchart của các chức năng như thanh toán, bình luận..
 
@@ -34,17 +34,17 @@ restrictions.txt ghi hạn chế, updates ghi nâng cấp sau này
 
 customer_requests.odt bao gồm toàn bộ yêu cầu của khách hàng
 
-### web-servers
+### web-servers directory
 Các files dùng cho webserver django --> gunicorn --> socket --> nginx. 
 Các file này trở thành symbolic links liên kết trong thư mục /etc/nginx/sites-enables và /etc/systemd/system/.
 Khi server khởi động lại gunicorn, nginx tự động được bật lên
 
 có file bash resize.sh để giảm kích thước ảnh giúp website mượt mà hơn.
 
-### tiemcuagio_django 
+### tiemcuagio_django  directory
 Chứa phần backend của website
 
-## tiemcuagio-react
+## tiemcuagio-react directory
 Chứa phần font-end của website
 
 ## Minh họa website
