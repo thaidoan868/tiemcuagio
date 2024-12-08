@@ -1,0 +1,16 @@
+@keyframes loading {
+    from {
+        background-color: hsl(200, 20%, 60%);
+    }
+    to {
+        background-color: hsl(200, 20%, 80%);
+    }
+}
+.imageSkeleton {
+    width: 100%;
+    height: 100%;
+
+    animation: loading 1s linear infinite alternate;
+    background-color: hsl(200, 20%, 70%);
+    opacity: .9;
+}

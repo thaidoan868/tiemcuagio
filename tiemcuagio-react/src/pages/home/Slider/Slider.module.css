@@ -1,0 +1,109 @@
+html {
+  scroll-padding-top: 200px;
+}
+.loading {
+    display: flex;
+    gap: 20px;
+    align-items: stretch;
+
+    padding: 15px 20px 30px 20px;
+    border-radius: 15px;
+
+    aspect-ratio: 10/3.5;
+    background-color: white;
+    p {
+        width: 100%;
+        background-color: gainsboro;
+        border-radius: 15px;
+    }
+}
+.slider {
+    position: relative;
+
+    padding: 15px 20px;
+    border-radius: 15px;
+
+    background-color: white;
+
+    .slide {
+        display: flex;
+        gap: 2%;
+
+        overflow-x: hidden;
+        border-radius: 15px;
+
+        img {
+            flex-shrink: 0;
+
+            width: 48.5%;
+            aspect-ratio: 10/6;
+            border-radius: 15px;
+
+            object-fit: cover;
+            object-position: center;
+
+            transition: translate .3s ease-in-out;
+            background-color: gainsboro;
+        }
+    }
+
+    &:hover {
+        button.left, button.right {
+            display: block;
+        }
+    }
+
+    button.left, button.right {
+        position: absolute;
+        z-index: 1;
+        top: 38%;
+        box-sizing: content-box;
+
+        display: none;
+        /* display: block; */
+
+        padding: 10px;
+        aspect-ratio: 1;
+        width: 1.3em;
+        border: none;
+        border-radius: 50%;
+
+        color: hsl(0 0% 40%);
+
+        &:hover {
+            box-shadow: 2px 3px 5px rgb(54, 54, 54, .5);
+            cursor: pointer;
+        }
+    }
+    .left {
+        left: 30px;
+    }
+    .right {
+        right: 30px;
+    }
+
+    p {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        
+        padding-top: 20px;
+        
+        
+        button {
+            padding: 0 30px;
+            border: none;
+            font-size: 10px;
+
+            .clickedIcon {
+                color: gray;
+            }
+            .unclickedIcon {
+                color: darkgray;
+            }
+        }
+
+    }
+
+
+}

@@ -1,0 +1,66 @@
+.retrieveOrderItems {
+    margin-top: 50px;
+    table.products {
+        border-collapse: collapse;
+
+        thead {
+            td {
+               font-weight: bold;
+               border-bottom: 2px solid var(--grey7);
+            }
+        }
+        tbody {
+            .name {
+                min-width: 30ch;
+                color: var(--blue5);
+            }
+            .quantity {
+                text-align: center;
+            }
+            td:first-child {
+                color: var(--blue5);
+            }
+        }
+
+        td {
+            padding: 10px 15px;
+            border-top: 1px solid var(--grey7);
+            color: var(--grey1);
+            text-align: right;
+
+            &:first-child {
+                text-align: center;
+                padding: 0;
+            }
+        }
+        .name {
+            text-align: left;
+        }
+    }
+    table.payment {
+        border-collapse: collapse;
+        margin-top:30px;
+        width: 40%;
+        td {
+            padding: 10px;
+            border-top: 1px solid var(--grey7);
+
+            &:first-child {
+                font-weight: bold;
+                padding-left: 0;
+            }
+            &:last-child {
+                text-align: right;
+            }
+
+            .money {
+                color: var(--blue5);
+                font-size: 1.5em;
+
+                &:last-child {
+                    font-size: 1.2em;
+                }
+            }
+        }
+    }
+}

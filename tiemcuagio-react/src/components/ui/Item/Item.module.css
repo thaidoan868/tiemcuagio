@@ -1,0 +1,190 @@
+.item {
+    --blue: hsl(217 100% 45%);
+    width: 190px;
+    overflow: hidden;
+    border: 1px solid transparent;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    &:hover{
+        border-radius: 10px;
+        border: 1px solid hsl(231 80% 60%);
+
+        .content {
+            border: 0;
+            .name a {
+                color: hsl(217 100% 40%);
+            }
+        }
+        
+        .imageContainer img {
+            scale: 1.1;
+        }
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+        background-color: gainsboro;
+    }
+
+    button:hover {
+        cursor: pointer;
+    }  
+    
+    .imageContainer {
+        overflow: hidden;
+        border-radius: 10px 10px 0 0;
+        width: 100%;
+        background-color: gainsboro;
+        aspect-ratio: 1/1;
+
+        img {
+            display: block;
+            aspect-ratio: 1/1;
+
+            transition: .2s linear;
+        }
+    }
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        padding: 15px 10px;
+
+        border-radius: 0 0 10px 10px;
+        border: 1px solid hsl(39 0% 66%);
+        border-top: 0;
+
+        hr {
+            border: 1px solid hsl(39 0% 66%);
+        }
+        .name  {
+            line-height: 25px;
+            height: 50px;
+            overflow: hidden;
+            color: gray;
+        }
+
+        .price {
+            color: hsl(217 100% 40%);
+            font-weight: bold;
+        }
+        .quickReviewButton {
+            --square: 2em;
+            position: relative;
+            z-index: 1;
+
+            align-self: center;
+
+            padding-left: 2.3em;
+            padding-right: 5px;
+            width: fit-content;
+            border: 0;
+            background-color: transparent;
+
+            &:hover{
+                cursor: pointer;
+                p {
+                    color: white;
+                }
+
+                .iconContainer {
+                    z-index: -1;
+                    justify-content: start;
+                    padding-left: 1.5em;
+                    width: 100%;
+                }
+            }
+
+            p {
+                white-space: nowrap;
+                transition: .3s;
+                line-height: var(--square);
+                font-weight: bold;
+                color: hsl(0 80% 45%);
+            }
+            .iconContainer {
+                position: absolute;
+                top: 0;
+                left: 0;
+
+                display: flex;
+                align-items: center;
+
+                padding-left: 0.6em;
+    
+                height: var(--square);
+                width: var(--square);
+                border-radius: 25px;
+
+                color: white;
+                background-color:hsl(0 80% 45%);
+
+                transition: all .4s;
+            }
+        }
+    }
+
+
+    .quickReviewContainer {
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+
+        background-color: rgba(0,0,0, .4); 
+    
+        .quickReview {
+            position: relative;
+            
+            margin: auto;
+            margin-top: 3%;
+            padding: 15px;
+
+            width: 70%;
+            height: 80%;
+            border-radius: 15px;
+
+            background-color: white;
+
+            button.close {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 100%;
+                translate: 0 -80%;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                padding: 10px;
+                width: 1.2em;
+                box-sizing: content-box;
+                aspect-ratio: 1;
+                border-radius: 50%;
+                border: 1px solid;
+
+                transition: rotate .4s cubic-bezier(.68,.53,.19,1.82);
+                font-size: 1.3em;
+                color: hsl(0, 0%, 40%);
+                
+                &:hover {
+                    color: hsl(0, 0%, 10%);
+                    rotate: -90deg;
+                }
+            }
+        }
+        
+    }
+}

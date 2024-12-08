@@ -1,0 +1,56 @@
+.loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+
+    .rank {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .loadingAvatar {
+        width: 25px;
+        aspect-ratio: 1/1;
+        border-radius: 100%;
+        overflow: hidden;
+    }
+}
+.ranks {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    padding: 20px;
+
+    border-image-source: url('./khung_ngoai2.png');
+    border-image-slice: 55;
+    border-image-width: 30px;
+    border-image-outset: 15px;
+    border-image-repeat: stretch repeat;
+    
+    background-color: white;
+    font-size: .8em;
+
+    img {
+        background-color: transparent;
+        height: fit-content;
+    }
+    h1{
+        font-size: 1em;
+        text-align: center;
+        color: hsl(0 100% 18%);
+    }
+    .rank{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: hsl(0 80% 18%);
+    }
+}

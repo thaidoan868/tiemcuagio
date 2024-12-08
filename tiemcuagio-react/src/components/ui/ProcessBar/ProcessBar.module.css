@@ -1,0 +1,139 @@
+.processBar {
+    display: flex;
+
+    ul {
+        width: 100%;
+        list-style-type: none;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: start;
+        gap: 10px;
+
+
+        li {
+            min-height: 1.25em;
+        }
+
+        .icon, .step, .display {
+            color: var(--blue5);
+        }
+
+        .icon {
+            font-size: 2em;
+            height: 1.5em;
+        }
+
+        .step {
+            position: relative;
+            font-size: 1.5em;
+
+            .circle {
+                position: absolute;
+                z-index: 2;
+                top: 0;
+                left: 0;
+                translate: -50%;
+                background-color: var(--grey9);
+            }
+
+            .line {
+                /* content: ""; */
+                position: absolute;
+                z-index: 1;
+                top: 50%;
+                left: 0;
+                translate: -100% -50%;
+                
+                width: 500px;
+                height: 5px;
+
+                background-color: var(--blue5);
+            }
+
+        }
+        &:first-child .step .line{
+            background-color: var(--grey9);
+            border: 3px solid var(--grey9);
+            z-index: 2;
+        }
+
+        .numberStep {
+            aspect-ratio: 1;
+            border-radius: 50%;
+            font-size: 1.3em;
+
+            background-color: var(--blue5);
+            color: var(--grey9);
+            text-align: center;
+
+        }
+
+
+        .display {
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .date {
+            font-size: .9em;
+            color: var(--blue6);
+        }
+
+        .message {
+            position: relative;
+
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 10px;
+
+            color: var(--grey1);
+            border: 1px solid gray;
+
+            &::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 50%;
+                translate: -50% -50%;
+                rotate: 45deg;
+
+                width: 15%;
+                max-width: 15px;
+                aspect-ratio: 1;
+                border: 1px solid gray;
+                border-right: none;
+                border-bottom: none;
+
+                background-color: var(--grey9);
+            }
+            
+        }
+    }
+    .noStatus {
+        li {
+            color: gray;
+
+            .line {
+                background-color: gray;
+                z-index: 0;
+            }
+        }
+    }
+    .cancellStatus {
+        li {
+            color: red;
+
+            .line {
+                background-color: red;
+                z-index: 0;
+            }
+        }
+        .message, .message::before {
+            border-color: red;
+
+        }
+
+    }
+}

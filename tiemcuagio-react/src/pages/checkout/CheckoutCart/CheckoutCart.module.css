@@ -1,0 +1,36 @@
+.loading {
+    padding: 40px;
+    .item {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+        margin-bottom: 20px;
+        .image {
+            width: 70px;
+            aspect-ratio: 1;
+        }
+    }
+    .loadingTotalPayment {
+        margin-top: 40px;
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid gray;
+        p {
+            flex-grow: 1;
+        }
+    }
+}
+.checkoutCart {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    width: 100%;
+
+    .totalPayment {
+        margin-top: 30px;
+        font-size: .8em;
+        color: hsl(0, 0%, 20%);
+    }
+}

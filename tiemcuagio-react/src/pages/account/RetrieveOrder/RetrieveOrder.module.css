@@ -1,0 +1,36 @@
+.loading {
+    padding: 80px;
+}
+.error {
+    padding: 100px;
+    font-size: 1.5em;
+    text-align: center;
+    color: gray;
+}
+.retrieveOrder {
+    padding: 20px;
+    h1 {
+        color: var(--yellow);
+        font-size: 1.1em;
+        margin-bottom: 30px;
+    }
+
+    .qr {
+        width: fit-content;
+        padding: 20px;
+        margin: auto;
+
+        p.notification {
+            font-weight: bold;
+            font-size: 1.5em;
+            color: red;
+            margin-bottom: 20px;
+        }
+    }
+    .deliveryInfo {
+        margin: 50px 0;
+    }
+    .items {
+        margin: 60px 0;
+    }
+}

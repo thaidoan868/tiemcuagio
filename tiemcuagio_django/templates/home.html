@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {% if user.is_authenticated %}
+  <h1>You are logined!</h1>
+  <a href="/logout">logout</a>
+  {% else %}
+  <h1>You are not logined</h1>
+    {% load socialaccount %}
+    <a href="{% provider_login_url 'google' %}"> LOGIN </a>
+</div>
+{% endif %}
+
+</body>
+</html>

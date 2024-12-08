@@ -1,0 +1,18 @@
+
+Bình luận:
+thêm
+Khung
+Số lượng sao
+thời gian, phản hồi, thích
+
+Không có cart không được tạo đơn
+cart trống hiện khong có trong giỏ hàng
+
+nên đặt biến chứa màu trong app.js
+
+nhập thông tin địa chỉ có lúc không bấm được
+
+thêm tổng quan tài khoản
+
+Chưa biết quản lý tên files trong nginx.conf sao cho hợp lý
+Làm sao để dùng CSRF đồng thời với axios

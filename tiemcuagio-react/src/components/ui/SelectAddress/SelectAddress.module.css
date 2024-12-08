@@ -1,0 +1,22 @@
+.selectAddress {
+    display: flex;
+    gap: 20px;
+    div {
+        select {
+            padding: 5px;
+            background-color: white;
+            outline: 1px solid gainsboro;
+            border: 2px solid transparent;
+            text-align: center;
+
+            &:hover {
+                outline: 1px solid gray;
+                border: 2px solid transparent;
+            }
+            &:focus {
+                border: 2px solid  hsl(217 100% 50%);
+                outline: none;
+            }
+        }
+    }
+}

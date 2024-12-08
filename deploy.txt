@@ -1,0 +1,10 @@
+REACT
+cd /home/namvuong1402/programming/python/web/tiemcuagio.io.vn/tiemcuagio-react
+npm run build && scp -r build namvuong1402@namvuong.org:/home/namvuong1402/websites/tiemcuagio/tiemcuagio-react
+
+
+DJANGO
+cd /home/namvuong1402/programming/python/web/tiemcuagio.io.vn
+scp -r tiemcuagio_django namvuong1402@namvuong.org:/home/namvuong1402/websites/tiemcuagio/
+ssh namvuong.org
+sudo systemctl restart gunicorn

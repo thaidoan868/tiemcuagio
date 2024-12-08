@@ -1,0 +1,192 @@
+[2024-12-06 22:12:44 +0700] [7167] [INFO] Starting gunicorn 23.0.0
+[2024-12-06 22:12:44 +0700] [7167] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:12:45 +0700] [7167] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:12:46 +0700] [7167] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:12:47 +0700] [7167] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:12:48 +0700] [7167] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:12:49 +0700] [7167] [ERROR] Can't connect to /run/gunicorn.sock
+[2024-12-06 22:13:07 +0700] [7178] [INFO] Starting gunicorn 23.0.0
+[2024-12-06 22:13:07 +0700] [7178] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:13:08 +0700] [7178] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:13:09 +0700] [7178] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:13:10 +0700] [7178] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:13:11 +0700] [7178] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-06 22:13:12 +0700] [7178] [ERROR] Can't connect to /run/gunicorn.sock
+[2024-12-06 22:14:04 +0700] [7216] [INFO] Starting gunicorn 23.0.0
+[2024-12-06 22:14:04 +0700] [7216] [INFO] Listening at: unix:/run/gunicorn.sock (7216)
+[2024-12-06 22:14:04 +0700] [7216] [INFO] Using worker: sync
+[2024-12-06 22:14:04 +0700] [7217] [INFO] Booting worker with pid: 7217
+[2024-12-06 22:47:35 +0700] [7216] [INFO] Handling signal: term
+[2024-12-06 22:47:35 +0700] [7217] [INFO] Worker exiting (pid: 7217)
+[2024-12-06 22:47:35 +0700] [7216] [INFO] Shutting down: Master
+[2024-12-06 22:47:35 +0700] [9032] [INFO] Starting gunicorn 23.0.0
+[2024-12-06 22:47:35 +0700] [9032] [INFO] Listening at: unix:/run/gunicorn.sock (9032)
+[2024-12-06 22:47:35 +0700] [9032] [INFO] Using worker: sync
+[2024-12-06 22:47:35 +0700] [9033] [INFO] Booting worker with pid: 9033
+[2024-12-06 22:49:17 +0700] [9033] [INFO] Worker exiting (pid: 9033)
+[2024-12-06 22:49:17 +0700] [9032] [INFO] Handling signal: term
+[2024-12-06 22:49:18 +0700] [9032] [INFO] Shutting down: Master
+[2024-12-07 07:07:50 +0700] [1178] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 07:07:50 +0700] [1178] [INFO] Listening at: unix:/run/gunicorn.sock (1178)
+[2024-12-07 07:07:50 +0700] [1178] [INFO] Using worker: sync
+[2024-12-07 07:07:50 +0700] [1299] [INFO] Booting worker with pid: 1299
+[2024-12-07 08:39:20 +0700] [1178] [INFO] Handling signal: term
+[2024-12-07 08:39:20 +0700] [1299] [INFO] Worker exiting (pid: 1299)
+[2024-12-07 08:39:20 +0700] [1178] [INFO] Shutting down: Master
+[2024-12-07 08:39:20 +0700] [7586] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 08:39:20 +0700] [7586] [INFO] Listening at: unix:/run/gunicorn.sock (7586)
+[2024-12-07 08:39:20 +0700] [7586] [INFO] Using worker: sync
+[2024-12-07 08:39:20 +0700] [7587] [INFO] Booting worker with pid: 7587
+[2024-12-07 08:59:17 +0700] [7587] [INFO] Worker exiting (pid: 7587)
+[2024-12-07 08:59:17 +0700] [7586] [INFO] Handling signal: term
+[2024-12-07 08:59:17 +0700] [7586] [INFO] Shutting down: Master
+[2024-12-07 08:59:17 +0700] [8104] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 08:59:17 +0700] [8104] [INFO] Listening at: unix:/run/gunicorn.sock (8104)
+[2024-12-07 08:59:17 +0700] [8104] [INFO] Using worker: sync
+[2024-12-07 08:59:17 +0700] [8105] [INFO] Booting worker with pid: 8105
+[2024-12-07 09:03:12 +0700] [8104] [INFO] Handling signal: term
+[2024-12-07 09:03:12 +0700] [8105] [INFO] Worker exiting (pid: 8105)
+[2024-12-07 09:03:12 +0700] [8104] [INFO] Shutting down: Master
+[2024-12-07 09:03:12 +0700] [8146] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 09:03:12 +0700] [8146] [INFO] Listening at: unix:/run/gunicorn.sock (8146)
+[2024-12-07 09:03:12 +0700] [8146] [INFO] Using worker: sync
+[2024-12-07 09:03:12 +0700] [8156] [INFO] Booting worker with pid: 8156
+[2024-12-07 09:47:39 +0700] [8146] [INFO] Handling signal: term
+[2024-12-07 09:47:39 +0700] [8156] [INFO] Worker exiting (pid: 8156)
+[2024-12-07 09:47:39 +0700] [8146] [INFO] Shutting down: Master
+[2024-12-07 09:47:39 +0700] [9334] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 09:47:39 +0700] [9334] [INFO] Listening at: unix:/run/gunicorn.sock (9334)
+[2024-12-07 09:47:39 +0700] [9334] [INFO] Using worker: sync
+[2024-12-07 09:47:39 +0700] [9336] [INFO] Booting worker with pid: 9336
+[2024-12-07 11:43:24 +0700] [9336] [INFO] Worker exiting (pid: 9336)
+[2024-12-07 11:43:24 +0700] [9334] [INFO] Handling signal: term
+[2024-12-07 11:43:24 +0700] [9334] [ERROR] Worker (pid:9336) was sent SIGTERM!
+[2024-12-07 11:43:24 +0700] [9334] [INFO] Shutting down: Master
+[2024-12-07 13:01:30 +0700] [1180] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 13:01:30 +0700] [1180] [INFO] Listening at: unix:/run/gunicorn.sock (1180)
+[2024-12-07 13:01:30 +0700] [1180] [INFO] Using worker: sync
+[2024-12-07 13:01:30 +0700] [1342] [INFO] Booting worker with pid: 1342
+[2024-12-07 13:23:47 +0700] [1180] [INFO] Handling signal: term
+[2024-12-07 13:23:47 +0700] [1342] [INFO] Worker exiting (pid: 1342)
+[2024-12-07 13:23:47 +0700] [1180] [INFO] Shutting down: Master
+[2024-12-07 13:23:47 +0700] [7690] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 13:23:47 +0700] [7690] [INFO] Listening at: unix:/run/gunicorn.sock (7690)
+[2024-12-07 13:23:47 +0700] [7690] [INFO] Using worker: sync
+[2024-12-07 13:23:47 +0700] [7692] [INFO] Booting worker with pid: 7692
+[2024-12-07 13:32:46 +0700] [7690] [INFO] Handling signal: term
+[2024-12-07 13:32:46 +0700] [7692] [INFO] Worker exiting (pid: 7692)
+[2024-12-07 13:32:46 +0700] [7690] [INFO] Shutting down: Master
+[2024-12-07 13:32:47 +0700] [7887] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 13:32:47 +0700] [7887] [INFO] Listening at: unix:/run/gunicorn.sock (7887)
+[2024-12-07 13:32:47 +0700] [7887] [INFO] Using worker: sync
+[2024-12-07 13:32:47 +0700] [7889] [INFO] Booting worker with pid: 7889
+[2024-12-07 15:16:29 +0700] [7887] [INFO] Handling signal: term
+[2024-12-07 15:16:29 +0700] [7889] [INFO] Worker exiting (pid: 7889)
+[2024-12-07 15:16:29 +0700] [7887] [INFO] Shutting down: Master
+[2024-12-07 15:30:40 +0700] [17926] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 15:30:40 +0700] [17926] [INFO] Listening at: unix:/run/gunicorn.sock (17926)
+[2024-12-07 15:30:40 +0700] [17926] [INFO] Using worker: sync
+[2024-12-07 15:30:40 +0700] [17927] [INFO] Booting worker with pid: 17927
+[2024-12-07 15:33:17 +0700] [17927] [INFO] Worker exiting (pid: 17927)
+[2024-12-07 15:33:17 +0700] [17926] [INFO] Handling signal: term
+[2024-12-07 15:33:17 +0700] [17926] [ERROR] Worker (pid:17927) was sent SIGTERM!
+[2024-12-07 15:33:17 +0700] [17926] [INFO] Shutting down: Master
+[2024-12-07 15:33:17 +0700] [18186] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 15:33:17 +0700] [18186] [INFO] Listening at: unix:/run/gunicorn.sock (18186)
+[2024-12-07 15:33:17 +0700] [18186] [INFO] Using worker: sync
+[2024-12-07 15:33:17 +0700] [18187] [INFO] Booting worker with pid: 18187
+[2024-12-07 16:50:19 +0700] [18187] [INFO] Worker exiting (pid: 18187)
+[2024-12-07 16:50:19 +0700] [18186] [INFO] Handling signal: term
+[2024-12-07 16:50:19 +0700] [18186] [ERROR] Worker (pid:18187) was sent SIGTERM!
+[2024-12-07 16:50:19 +0700] [18186] [INFO] Shutting down: Master
+[2024-12-07 18:06:07 +0700] [1167] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 18:06:07 +0700] [1167] [INFO] Listening at: unix:/run/gunicorn.sock (1167)
+[2024-12-07 18:06:07 +0700] [1167] [INFO] Using worker: sync
+[2024-12-07 18:06:07 +0700] [1307] [INFO] Booting worker with pid: 1307
+[2024-12-07 21:44:12 +0700] [1307] [INFO] Worker exiting (pid: 1307)
+[2024-12-07 21:44:12 +0700] [1167] [INFO] Handling signal: term
+[2024-12-07 21:44:12 +0700] [1167] [ERROR] Worker (pid:1307) was sent SIGTERM!
+[2024-12-07 21:44:12 +0700] [1167] [INFO] Shutting down: Master
+[2024-12-07 21:44:13 +0700] [15341] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 21:44:13 +0700] [15341] [INFO] Listening at: unix:/run/gunicorn.sock (15341)
+[2024-12-07 21:44:13 +0700] [15341] [INFO] Using worker: sync
+[2024-12-07 21:44:13 +0700] [15342] [INFO] Booting worker with pid: 15342
+[2024-12-07 22:30:39 +0700] [15342] [INFO] Worker exiting (pid: 15342)
+[2024-12-07 22:30:39 +0700] [15341] [INFO] Handling signal: term
+[2024-12-07 22:30:39 +0700] [15341] [INFO] Shutting down: Master
+[2024-12-07 22:30:40 +0700] [23723] [INFO] Starting gunicorn 23.0.0
+[2024-12-07 22:30:40 +0700] [23723] [INFO] Listening at: unix:/run/gunicorn.sock (23723)
+[2024-12-07 22:30:40 +0700] [23723] [INFO] Using worker: sync
+[2024-12-07 22:30:40 +0700] [23724] [INFO] Booting worker with pid: 23724
+[2024-12-07 22:43:42 +0700] [23723] [INFO] Handling signal: term
+[2024-12-07 22:43:42 +0700] [23724] [INFO] Worker exiting (pid: 23724)
+[2024-12-07 22:43:43 +0700] [23723] [INFO] Shutting down: Master
+[2024-12-08 07:19:05 +0700] [1180] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 07:19:05 +0700] [1180] [INFO] Listening at: unix:/run/gunicorn.sock (1180)
+[2024-12-08 07:19:05 +0700] [1180] [INFO] Using worker: sync
+[2024-12-08 07:19:05 +0700] [1325] [INFO] Booting worker with pid: 1325
+[2024-12-08 08:22:01 +0700] [1180] [INFO] Handling signal: term
+[2024-12-08 08:22:01 +0700] [1325] [INFO] Worker exiting (pid: 1325)
+[2024-12-08 08:22:01 +0700] [1180] [INFO] Shutting down: Master
+[2024-12-08 08:22:02 +0700] [9158] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 08:22:02 +0700] [9158] [INFO] Listening at: unix:/run/gunicorn.sock (9158)
+[2024-12-08 08:22:02 +0700] [9158] [INFO] Using worker: sync
+[2024-12-08 08:22:02 +0700] [9159] [INFO] Booting worker with pid: 9159
+[2024-12-08 11:48:53 +0700] [9159] [INFO] Worker exiting (pid: 9159)
+[2024-12-08 11:48:53 +0700] [9158] [INFO] Handling signal: term
+[2024-12-08 11:48:54 +0700] [9158] [ERROR] Worker (pid:9159) was sent SIGTERM!
+[2024-12-08 11:48:54 +0700] [9158] [INFO] Shutting down: Master
+[2024-12-08 12:41:29 +0700] [1162] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 12:41:29 +0700] [1162] [INFO] Listening at: unix:/run/gunicorn.sock (1162)
+[2024-12-08 12:41:29 +0700] [1162] [INFO] Using worker: sync
+[2024-12-08 12:41:29 +0700] [1284] [INFO] Booting worker with pid: 1284
+[2024-12-08 12:57:01 +0700] [1162] [INFO] Handling signal: term
+[2024-12-08 12:57:01 +0700] [1284] [INFO] Worker exiting (pid: 1284)
+[2024-12-08 12:57:01 +0700] [1162] [INFO] Shutting down: Master
+[2024-12-08 13:28:04 +0700] [8947] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:28:04 +0700] [8947] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-08 13:28:05 +0700] [8947] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-08 13:28:06 +0700] [8947] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-08 13:28:07 +0700] [8947] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-08 13:28:08 +0700] [8947] [ERROR] connection to /run/gunicorn.sock failed: [Errno 13] Permission denied: '/run/gunicorn.sock'
+[2024-12-08 13:28:09 +0700] [8947] [ERROR] Can't connect to /run/gunicorn.sock
+[2024-12-08 13:28:48 +0700] [9019] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:28:48 +0700] [9019] [INFO] Listening at: unix:/run/gunicorn.sock (9019)
+[2024-12-08 13:28:48 +0700] [9019] [INFO] Using worker: sync
+[2024-12-08 13:28:48 +0700] [9020] [INFO] Booting worker with pid: 9020
+[2024-12-08 19:00:18 +0700] [9020] [INFO] Worker exiting (pid: 9020)
+[2024-12-08 19:00:18 +0700] [9019] [INFO] Handling signal: term
+[2024-12-08 19:00:18 +0700] [9019] [ERROR] Worker (pid:9020) was sent SIGTERM!
+[2024-12-08 19:00:18 +0700] [9019] [INFO] Shutting down: Master
+[2024-12-08 19:00:19 +0700] [25499] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 19:00:19 +0700] [25499] [INFO] Listening at: unix:/run/gunicorn.sock (25499)
+[2024-12-08 19:00:19 +0700] [25499] [INFO] Using worker: sync
+[2024-12-08 19:00:19 +0700] [25501] [INFO] Booting worker with pid: 25501
+[2024-12-08 19:13:23 +0700] [25501] [INFO] Worker exiting (pid: 25501)
+[2024-12-08 19:13:23 +0700] [25499] [INFO] Handling signal: term
+[2024-12-08 19:13:23 +0700] [25499] [INFO] Shutting down: Master
+[2024-12-08 19:13:23 +0700] [26541] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 19:13:23 +0700] [26541] [INFO] Listening at: unix:/run/gunicorn.sock (26541)
+[2024-12-08 19:13:23 +0700] [26541] [INFO] Using worker: sync
+[2024-12-08 19:13:23 +0700] [26544] [INFO] Booting worker with pid: 26544
+[2024-12-08 19:16:58 +0700] [26541] [INFO] Handling signal: term
+[2024-12-08 19:16:58 +0700] [26544] [INFO] Worker exiting (pid: 26544)
+[2024-12-08 19:16:58 +0700] [26541] [INFO] Shutting down: Master
+[2024-12-08 19:16:58 +0700] [26798] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 19:16:58 +0700] [26798] [INFO] Listening at: unix:/run/gunicorn.sock (26798)
+[2024-12-08 19:16:58 +0700] [26798] [INFO] Using worker: sync
+[2024-12-08 19:16:58 +0700] [26799] [INFO] Booting worker with pid: 26799
+[2024-12-08 19:19:57 +0700] [26799] [INFO] Worker exiting (pid: 26799)
+[2024-12-08 19:19:57 +0700] [26798] [INFO] Handling signal: term
+[2024-12-08 19:19:57 +0700] [26798] [INFO] Shutting down: Master
+[2024-12-08 19:19:57 +0700] [26893] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 19:19:57 +0700] [26893] [INFO] Listening at: unix:/run/gunicorn.sock (26893)
+[2024-12-08 19:19:57 +0700] [26893] [INFO] Using worker: sync
+[2024-12-08 19:19:57 +0700] [26895] [INFO] Booting worker with pid: 26895
+[2024-12-08 19:23:42 +0700] [26893] [INFO] Handling signal: term
+[2024-12-08 19:23:42 +0700] [26895] [INFO] Worker exiting (pid: 26895)
+[2024-12-08 19:23:42 +0700] [26893] [INFO] Shutting down: Master
+[2024-12-08 19:23:42 +0700] [27027] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 19:23:42 +0700] [27027] [INFO] Listening at: unix:/run/gunicorn.sock (27027)
+[2024-12-08 19:23:42 +0700] [27027] [INFO] Using worker: sync
+[2024-12-08 19:23:42 +0700] [27028] [INFO] Booting worker with pid: 27028

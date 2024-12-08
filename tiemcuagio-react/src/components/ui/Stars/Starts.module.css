@@ -1,0 +1,5 @@
+.stars {
+    color: hsl(20 100% 50%);
+    display: flex;
+    gap: 5px;
+}

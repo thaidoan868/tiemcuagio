@@ -1,0 +1,67 @@
+.loading {
+    .image {
+        background-color: white;
+        aspect-ratio: 10/2;
+        border-radius: 15px 15px 0 0;
+        overflow: hidden;
+    }
+    .itemsContainer {
+        background-color: white;
+        padding: 40px 20px;
+
+        .itemsFlexContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: space-between;
+
+            margin-top: 20px;
+
+            .itemContainer {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                width: 200px;
+
+                .imageContainer {
+                    aspect-ratio: 1/1;
+                    border-radius: 15px 15px 0 0;
+                    overflow: hidden;
+                }
+
+                .quickReview {
+                    margin-left: 30%;
+                }
+            }
+        }
+    }
+}
+.overview {
+    > img {
+        background-color: gainsboro;
+        display: block;
+        width: 100%;
+        aspect-ratio: 10/3;
+        border-radius: 15px 15px 0px 0px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .items_container {
+        border-radius: 0px 0px 15px 15px;
+        padding: 40px 20px;
+        background-color: white;
+        p.title {
+            margin-bottom: 20px;
+            font-weight: bold;
+            color: hsl(39 100% 38%);
+            font-size: 1.3em;
+        }
+    }
+
+    .items_flex_container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 22px;
+        justify-content: space-around;
+    }
+}

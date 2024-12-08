@@ -1,0 +1,58 @@
+.footer {
+    margin-top: 40px;
+    padding: 40px 40px 10px 40px;
+    background-color: white;
+
+    p, li {
+        margin-bottom: 5px;
+        line-height: 1.5em;
+        color: var(--grey4);
+    }
+    ul li {
+        list-style-type: none;
+    }
+
+    .flexContainer {
+        display: flex;
+        gap: 40px;
+        justify-content: space-around;
+
+        section {
+            p:first-child {
+                font-weight: bold;
+                color: black;
+            }
+        }
+
+        section.gpdkkd {
+            width: 30%;
+            img {
+                max-width: 300px;
+            }
+        }
+
+        section.address {
+            width: 30%;
+            p:first-child {
+                text-transform: uppercase;
+            }
+            p:last-child {
+                span {
+                    font-weight: bold;
+                    color: var(--blue5);
+                }
+            }
+        }
+
+        section.support {
+            width: 20%;
+        }
+    }
+    section.copyright {
+        margin-top: 20px;
+        p {
+            color: var(--blue5);
+            text-align: center;
+        }
+    }
+}

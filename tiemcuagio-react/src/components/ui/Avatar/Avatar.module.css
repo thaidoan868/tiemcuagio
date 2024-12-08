@@ -1,0 +1,62 @@
+@property --avatarWidth {
+    syntax: "<length>";
+    initial-value: "20px";
+}
+.avatar {
+    width: fit-content;
+    .image {
+        aspect-ratio: 1/1;
+        border-radius: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+
+}
+.level0 {
+    .image {
+        width: calc(var(--avatarWidth)*.8);
+    }
+}
+.hasFrame {
+    position: relative;
+    .frame {
+        width: var(--avatarWidth);
+        z-index: 1;
+        position: relative;
+    }
+    .image {
+        position: absolute;
+    }
+}
+.level1 {
+    .frame {
+        width: calc(var(--avatarWidth)*.8);
+    }
+    .image {
+        width: 76.1%;
+        top: 11.16%;
+        left: 12.25%;
+    }
+}
+.level2 {
+    .frame {
+        width: calc(var(--avatarWidth)*.8);
+    }
+    .image {
+        width: 61.89%;
+        top: 20.55%;
+        left: 19.34%;
+    }
+}
+.level3 .image {
+        width: 51.49%;
+        top: 23.85%;
+        left: 24.46%;
+}
+.level4 {
+    .image {
+        width: 56%;
+        top: 26.63%;
+        left: 20.94%;
+    }
+}

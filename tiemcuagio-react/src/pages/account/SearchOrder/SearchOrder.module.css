@@ -1,0 +1,42 @@
+.searchOrder {
+    padding: 40px;
+    h1 {
+        color: var(--yellow);
+        font-size: 1.1em;
+        margin-bottom: 15px;
+    }
+
+    form {
+        display: flex;
+    }
+    input {
+        padding: 10px;
+        outline: none;
+        border: 1px solid gray;
+        border-right: none;
+        border-radius: 5px 0 0 5px;
+
+        font-size: 1.2em;
+
+        &:focus {
+            border: 1px solid var(--blue5);
+            border-right: none;
+            outline: none;
+        }
+
+    }
+    button {
+        padding: 10px 15px;
+        border-radius: 0 5px 5px 0;
+        border: none;
+
+        font-size: 1.2em;
+        background-color: var(--blue5);
+        color: white;
+
+        &:hover {
+            background-color: var(--blue6);
+        }
+    }
+
+}

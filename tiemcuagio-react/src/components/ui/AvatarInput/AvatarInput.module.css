@@ -1,0 +1,55 @@
+.avatarInput {
+    width: fit-content;
+    margin: 0 !important;
+
+    .outline {
+        margin: auto;
+        padding: 15px;
+        width: fit-content;
+        border-radius: 50%;
+        background-color: var(--blue9);
+    }
+    label {
+        display: block;
+        position: relative;
+
+        width: 130px;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        border: 2px solid var(--blue5);
+
+        overflow: hidden;
+
+        &:hover {
+            cursor: pointer;
+            .uploadIcon {
+                display: flex;
+            }
+        }
+
+        .uploadIcon {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+
+            display: none;
+            align-items: center;
+            justify-content: center;
+
+            background-color: hsl(0, 0%, 0%, .5);
+            color: white;
+            font-size: 1.3em;
+        }
+    }
+
+    input.uploadImage {
+        display: inline-block;
+        padding: 5px;
+        width: fit-content;
+        background-color: white;
+        font-size: .7em;
+        text-align: center;
+    }  
+}

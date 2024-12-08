@@ -1,0 +1,173 @@
+.loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+
+    .loadingAvatar {
+        width: 100px;
+        aspect-ratio: 1/1;
+        border-radius: 100%;
+        overflow: hidden;
+    }
+}
+.account_sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+
+    padding: 20px;
+    min-height: 300px;
+    border-radius: 15px;
+
+    background-color: white;
+    font-size: .8em;
+    
+    img {
+        height: fit-content;
+    }
+
+    .avatar .image {
+        display: block;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 100%;
+    }
+
+    .infomation{
+        flex-grow: 1;
+        margin-top: 15px;
+        color: hsl(15 58% 25%);
+
+        .price, .orders {
+            font-weight: bold;
+        }
+        p {
+            margin-bottom: 10px;
+            text-align: center;
+        }
+    }
+}
+.level0 {
+    .name {
+        color: hsl(200 72% 25%);
+    }
+
+    .levelTitle {
+        color: hsl(200 50% 50%);
+    }
+
+    .infomation {
+        color: hsl(200 35% 40%);
+    }
+    
+    .avatar {
+        padding: 10px;
+        background-color: hsl(200 72% 93%);
+        border-radius: 100%;
+        img {
+            width : 100px;
+            border: 2px solid hsl(200 72% 30%);
+            border-radius: 100%;
+        }
+    }
+}
+.hasAvatarFrame {
+    img {
+        background-color: transparent;
+    }
+    .avatar{
+        position: relative;
+        .avatarFrame {
+            position: relative;
+            z-index: 1;
+            width: 80px;
+        }
+        .image{
+            position: absolute;
+        }
+    }
+    .name {
+        margin-top: 10px;
+        font-weight: bold;
+        color: hsl(0 80% 25%);
+    }
+    .levelTitle {
+        color: hsl(0 35% 40%);
+    }
+
+}
+.level1 {
+    border: 1px solid;
+    border-color: hsl(16, 100%, 53%);
+
+    .avatar{
+        .image{
+            position: absolute;
+            width: 83.44%;
+            top: 8.28%;
+            left: 8.83%;
+            aspect-ratio: 1/1;
+
+            border-radius: 100%;
+        }
+    }
+    .name{
+        color: hsl(20 80% 35%);
+    }
+    .levelTitle {
+        color: hsl(25 50% 50%);
+    }
+
+    .infomation {
+        color: hsl(25 50% 35%);
+    }
+}
+.level2 {
+    border-image-slice: 37 50 40 47;
+    border-image-width: 25px;
+    border-image-repeat: stretch stretch;
+    border-image-outset: 13px;
+
+    .avatar .image{
+            width: 79%;
+            top: 10.71%;
+            left: 10.29%;
+    }
+}
+
+.level3 {
+    border-image-slice: 43 45 47 46;
+    border-image-width: 25px;
+    border-image-repeat: stretch stretch;
+    border-image-outset: 10px;
+
+    .avatar .image{
+            top: 8.5%;
+            left: 24.42%;
+            width: 52.37%;
+    }
+}
+.level4 {
+    border-image-slice: 54 47 44 47;
+    border-image-width: 25px;
+    border-image-repeat: stretch stretch;
+    border-image-outset: 10px;
+
+    .avatar .image {
+            position: absolute;
+            width: 54.29%;
+            top: 21.82%;
+            left: 23.63%;
+    }
+    .levelTitle{
+        text-align: center;
+        font-size: 14px;
+    }
+}

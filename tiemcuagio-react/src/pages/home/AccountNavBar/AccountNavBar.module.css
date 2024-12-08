@@ -1,0 +1,19 @@
+.accountNavBar {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    a.cartButton {
+        display: block;
+        padding: 5px 10px;
+
+        background-color: transparent;
+        border: none;
+        border-radius: 10px;
+        font-size: 1em;
+
+        &:hover {
+            background-color: var(--grey8);
+        }
+    }
+}

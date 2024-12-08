@@ -1,0 +1,24 @@
+.numberInput{
+    display: flex;
+    align-items: stretch;
+    
+    input {
+        text-align: center;
+        font-size: 1.5em;
+        width: 3.7em;
+        height: 30px;
+        border-radius: 0;
+        border: 1px solid gainsboro;
+
+        &:focus {
+            outline: none;
+            border-color: var(--blue);
+        }
+    }
+    button {
+        font-size: 1.5em;
+        width: 1.5em;
+        border-radius: 0;
+        border: None;
+    }
+}

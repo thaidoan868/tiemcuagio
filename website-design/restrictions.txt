@@ -1,0 +1,18 @@
+Login:
+Chưa có chế độ reset mật khẩu
+
+User model:
+phonenumber chưa dùng phoneumberfield. phonenumber chỉ là integer, tự động thêm số 0 cho mỗi số điện thoại.
+
+Phải tạo:
+deleted_user, deleted_order, deleted_withdralwal_request, deleted_order_status
+
+Tìm kiếm những người mua nhiều nhất rất tốn thời gian vì phải chạy qua hết users
+
+chưa biết cách viết create-validation, level-validator 
+
+front-end
+mỗi product phải có 1 image và không vượt quá 4
+Chưa viết tốt comments
+
+Chưa resonsive

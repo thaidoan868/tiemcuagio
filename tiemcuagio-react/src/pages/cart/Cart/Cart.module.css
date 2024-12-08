@@ -1,0 +1,78 @@
+.loading {
+    padding: 40px;
+
+    .body {
+        display: flex;
+        gap: 40px;
+        margin-top: 20px;
+
+        .items {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            width: 70%;
+
+            .item {
+                display: flex;
+                gap: 30px;
+                align-items: center;
+
+                padding: 10px;
+                border: 1px solid gray;
+                border-radius: 15px;
+
+                .image {
+                    width: 100px;
+                    aspect-ratio: 1;
+                }
+            }
+        }
+
+        .totalBill {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+
+            padding: 30px;
+            border: 1px solid gray;
+            border-radius: 15px;
+
+            .bottom {
+                width: 70%;
+                margin: auto;
+            }
+        }
+    }
+}
+
+.cart {
+    background-color: gainsboro;
+
+    .cartContainer {
+        margin: 20px;
+        padding: 20px;
+        min-height: 70vh;
+        border-radius: 15px;
+        background-color: white;
+
+        >h1 {
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+
+        .flexContainer {
+            display: flex;
+            gap: 20px;
+            align-items: start;
+            
+            .items {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+
+                width: 70%;
+            }
+        }
+    }
+}

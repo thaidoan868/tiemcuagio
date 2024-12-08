@@ -1,0 +1,3060 @@
+  {
+   "Code": "79",
+   "Name": "Hồ Chí Minh",
+   "NameEn": "Ho Chi Minh",
+   "FullName": "Thành phố Hồ Chí Minh",
+   "FullNameEn": "Ho Chi Minh City",
+   "CodeName": "ho_chi_minh",
+   "District": [
+    {
+     "Code": "760",
+     "Name": "1",
+     "NameEn": "1",
+     "FullName": "Quận 1",
+     "FullNameEn": "District 1",
+     "CodeName": "1",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26734",
+       "Name": "Tân Định",
+       "NameEn": "Tan Dinh",
+       "FullName": "Phường Tân Định",
+       "FullNameEn": "Tan Dinh Ward",
+       "CodeName": "tan_dinh",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26737",
+       "Name": "Đa Kao",
+       "NameEn": "Da Kao",
+       "FullName": "Phường Đa Kao",
+       "FullNameEn": "Da Kao Ward",
+       "CodeName": "da_kao",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26740",
+       "Name": "Bến Nghé",
+       "NameEn": "Ben Nghe",
+       "FullName": "Phường Bến Nghé",
+       "FullNameEn": "Ben Nghe Ward",
+       "CodeName": "ben_nghe",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26743",
+       "Name": "Bến Thành",
+       "NameEn": "Ben Thanh",
+       "FullName": "Phường Bến Thành",
+       "FullNameEn": "Ben Thanh Ward",
+       "CodeName": "ben_thanh",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26746",
+       "Name": "Nguyễn Thái Bình",
+       "NameEn": "Nguyen Thai Binh",
+       "FullName": "Phường Nguyễn Thái Bình",
+       "FullNameEn": "Nguyen Thai Binh Ward",
+       "CodeName": "nguyen_thai_binh",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26749",
+       "Name": "Phạm Ngũ Lão",
+       "NameEn": "Pham Ngu Lao",
+       "FullName": "Phường Phạm Ngũ Lão",
+       "FullNameEn": "Pham Ngu Lao Ward",
+       "CodeName": "pham_ngu_lao",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26752",
+       "Name": "Cầu Ông Lãnh",
+       "NameEn": "Cau Ong Lanh",
+       "FullName": "Phường Cầu Ông Lãnh",
+       "FullNameEn": "Cau Ong Lanh Ward",
+       "CodeName": "cau_ong_lanh",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26755",
+       "Name": "Cô Giang",
+       "NameEn": "Co Giang",
+       "FullName": "Phường Cô Giang",
+       "FullNameEn": "Co Giang Ward",
+       "CodeName": "co_giang",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26758",
+       "Name": "Nguyễn Cư Trinh",
+       "NameEn": "Nguyen Cu Trinh",
+       "FullName": "Phường Nguyễn Cư Trinh",
+       "FullNameEn": "Nguyen Cu Trinh Ward",
+       "CodeName": "nguyen_cu_trinh",
+       "DistrictCode": "760"
+      },
+      {
+       "Code": "26761",
+       "Name": "Cầu Kho",
+       "NameEn": "Cau Kho",
+       "FullName": "Phường Cầu Kho",
+       "FullNameEn": "Cau Kho Ward",
+       "CodeName": "cau_kho",
+       "DistrictCode": "760"
+      }
+     ]
+    },
+    {
+     "Code": "761",
+     "Name": "12",
+     "NameEn": "12",
+     "FullName": "Quận 12",
+     "FullNameEn": "District 12",
+     "CodeName": "12",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26764",
+       "Name": "Thạnh Xuân",
+       "NameEn": "Thanh Xuan",
+       "FullName": "Phường Thạnh Xuân",
+       "FullNameEn": "Thanh Xuan Ward",
+       "CodeName": "thanh_xuan",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26767",
+       "Name": "Thạnh Lộc",
+       "NameEn": "Thanh Loc",
+       "FullName": "Phường Thạnh Lộc",
+       "FullNameEn": "Thanh Loc Ward",
+       "CodeName": "thanh_loc",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26770",
+       "Name": "Hiệp Thành",
+       "NameEn": "Hiep Thanh",
+       "FullName": "Phường Hiệp Thành",
+       "FullNameEn": "Hiep Thanh Ward",
+       "CodeName": "hiep_thanh",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26773",
+       "Name": "Thới An",
+       "NameEn": "Thoi An",
+       "FullName": "Phường Thới An",
+       "FullNameEn": "Thoi An Ward",
+       "CodeName": "thoi_an",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26776",
+       "Name": "Tân Chánh Hiệp",
+       "NameEn": "Tan Chanh Hiep",
+       "FullName": "Phường Tân Chánh Hiệp",
+       "FullNameEn": "Tan Chanh Hiep Ward",
+       "CodeName": "tan_chanh_hiep",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26779",
+       "Name": "An Phú Đông",
+       "NameEn": "An Phu Dong",
+       "FullName": "Phường An Phú Đông",
+       "FullNameEn": "An Phu Dong Ward",
+       "CodeName": "an_phu_dong",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26782",
+       "Name": "Tân Thới Hiệp",
+       "NameEn": "Tan Thoi Hiep",
+       "FullName": "Phường Tân Thới Hiệp",
+       "FullNameEn": "Tan Thoi Hiep Ward",
+       "CodeName": "tan_thoi_hiep",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26785",
+       "Name": "Trung Mỹ Tây",
+       "NameEn": "Trung My Tay",
+       "FullName": "Phường Trung Mỹ Tây",
+       "FullNameEn": "Trung My Tay Ward",
+       "CodeName": "trung_my_tay",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26787",
+       "Name": "Tân Hưng Thuận",
+       "NameEn": "Tan Hung Thuan",
+       "FullName": "Phường Tân Hưng Thuận",
+       "FullNameEn": "Tan Hung Thuan Ward",
+       "CodeName": "tan_hung_thuan",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26788",
+       "Name": "Đông Hưng Thuận",
+       "NameEn": "Dong Hung Thuan",
+       "FullName": "Phường Đông Hưng Thuận",
+       "FullNameEn": "Dong Hung Thuan Ward",
+       "CodeName": "dong_hung_thuan",
+       "DistrictCode": "761"
+      },
+      {
+       "Code": "26791",
+       "Name": "Tân Thới Nhất",
+       "NameEn": "Tan Thoi Nhat",
+       "FullName": "Phường Tân Thới Nhất",
+       "FullNameEn": "Tan Thoi Nhat Ward",
+       "CodeName": "tan_thoi_nhat",
+       "DistrictCode": "761"
+      }
+     ]
+    },
+    {
+     "Code": "764",
+     "Name": "Gò Vấp",
+     "NameEn": "Go Vap",
+     "FullName": "Quận Gò Vấp",
+     "FullNameEn": "Go Vap District",
+     "CodeName": "go_vap",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26869",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26872",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26875",
+       "Name": "17",
+       "NameEn": "17",
+       "FullName": "Phường 17",
+       "FullNameEn": "Ward 17",
+       "CodeName": "17",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26876",
+       "Name": "6",
+       "NameEn": "6",
+       "FullName": "Phường 6",
+       "FullNameEn": "Ward 6",
+       "CodeName": "6",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26878",
+       "Name": "16",
+       "NameEn": "16",
+       "FullName": "Phường 16",
+       "FullNameEn": "Ward 16",
+       "CodeName": "16",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26881",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26882",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26884",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26887",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26890",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26893",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26896",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26897",
+       "Name": "9",
+       "NameEn": "9",
+       "FullName": "Phường 9",
+       "FullNameEn": "Ward 9",
+       "CodeName": "9",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26898",
+       "Name": "8",
+       "NameEn": "8",
+       "FullName": "Phường 8",
+       "FullNameEn": "Ward 8",
+       "CodeName": "8",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26899",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "764"
+      },
+      {
+       "Code": "26902",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "764"
+      }
+     ]
+    },
+    {
+     "Code": "765",
+     "Name": "Bình Thạnh",
+     "NameEn": "Binh Thanh",
+     "FullName": "Quận Bình Thạnh",
+     "FullNameEn": "Binh Thanh District",
+     "CodeName": "binh_thanh",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26905",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26908",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26911",
+       "Name": "27",
+       "NameEn": "27",
+       "FullName": "Phường 27",
+       "FullNameEn": "Ward 27",
+       "CodeName": "27",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26914",
+       "Name": "26",
+       "NameEn": "26",
+       "FullName": "Phường 26",
+       "FullNameEn": "Ward 26",
+       "CodeName": "26",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26917",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26920",
+       "Name": "25",
+       "NameEn": "25",
+       "FullName": "Phường 25",
+       "FullNameEn": "Ward 25",
+       "CodeName": "25",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26923",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26926",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26929",
+       "Name": "24",
+       "NameEn": "24",
+       "FullName": "Phường 24",
+       "FullNameEn": "Ward 24",
+       "CodeName": "24",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26932",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26935",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26938",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26941",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26944",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26947",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26950",
+       "Name": "17",
+       "NameEn": "17",
+       "FullName": "Phường 17",
+       "FullNameEn": "Ward 17",
+       "CodeName": "17",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26953",
+       "Name": "21",
+       "NameEn": "21",
+       "FullName": "Phường 21",
+       "FullNameEn": "Ward 21",
+       "CodeName": "21",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26956",
+       "Name": "22",
+       "NameEn": "22",
+       "FullName": "Phường 22",
+       "FullNameEn": "Ward 22",
+       "CodeName": "22",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26959",
+       "Name": "19",
+       "NameEn": "19",
+       "FullName": "Phường 19",
+       "FullNameEn": "Ward 19",
+       "CodeName": "19",
+       "DistrictCode": "765"
+      },
+      {
+       "Code": "26962",
+       "Name": "28",
+       "NameEn": "28",
+       "FullName": "Phường 28",
+       "FullNameEn": "Ward 28",
+       "CodeName": "28",
+       "DistrictCode": "765"
+      }
+     ]
+    },
+    {
+     "Code": "766",
+     "Name": "Tân Bình",
+     "NameEn": "Tan Binh",
+     "FullName": "Quận Tân Bình",
+     "FullNameEn": "Tan Binh District",
+     "CodeName": "tan_binh",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26965",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26968",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26971",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26974",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26977",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26980",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26983",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26986",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26989",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26992",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26995",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "26998",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "27001",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "27004",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "766"
+      },
+      {
+       "Code": "27007",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "766"
+      }
+     ]
+    },
+    {
+     "Code": "767",
+     "Name": "Tân Phú",
+     "NameEn": "Tan Phu",
+     "FullName": "Quận Tân Phú",
+     "FullNameEn": "Tan Phu District",
+     "CodeName": "tan_phu",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27010",
+       "Name": "Tân Sơn Nhì",
+       "NameEn": "Tan Son Nhi",
+       "FullName": "Phường Tân Sơn Nhì",
+       "FullNameEn": "Tan Son Nhi Ward",
+       "CodeName": "tan_son_nhi",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27013",
+       "Name": "Tây Thạnh",
+       "NameEn": "Tay Thanh",
+       "FullName": "Phường Tây Thạnh",
+       "FullNameEn": "Tay Thanh Ward",
+       "CodeName": "tay_thanh",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27016",
+       "Name": "Sơn Kỳ",
+       "NameEn": "Son Ky",
+       "FullName": "Phường Sơn Kỳ",
+       "FullNameEn": "Son Ky Ward",
+       "CodeName": "son_ky",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27019",
+       "Name": "Tân Quý",
+       "NameEn": "Tan Quy",
+       "FullName": "Phường Tân Quý",
+       "FullNameEn": "Tan Quy Ward",
+       "CodeName": "tan_quy",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27022",
+       "Name": "Tân Thành",
+       "NameEn": "Tan Thanh",
+       "FullName": "Phường Tân Thành",
+       "FullNameEn": "Tan Thanh Ward",
+       "CodeName": "tan_thanh",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27025",
+       "Name": "Phú Thọ Hòa",
+       "NameEn": "Phu Tho Hoa",
+       "FullName": "Phường Phú Thọ Hòa",
+       "FullNameEn": "Phu Tho Hoa Ward",
+       "CodeName": "phu_tho_hoa",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27028",
+       "Name": "Phú Thạnh",
+       "NameEn": "Phu Thanh",
+       "FullName": "Phường Phú Thạnh",
+       "FullNameEn": "Phu Thanh Ward",
+       "CodeName": "phu_thanh",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27031",
+       "Name": "Phú Trung",
+       "NameEn": "Phu Trung",
+       "FullName": "Phường Phú Trung",
+       "FullNameEn": "Phu Trung Ward",
+       "CodeName": "phu_trung",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27034",
+       "Name": "Hòa Thạnh",
+       "NameEn": "Hoa Thanh",
+       "FullName": "Phường Hòa Thạnh",
+       "FullNameEn": "Hoa Thanh Ward",
+       "CodeName": "hoa_thanh",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27037",
+       "Name": "Hiệp Tân",
+       "NameEn": "Hiep Tan",
+       "FullName": "Phường Hiệp Tân",
+       "FullNameEn": "Hiep Tan Ward",
+       "CodeName": "hiep_tan",
+       "DistrictCode": "767"
+      },
+      {
+       "Code": "27040",
+       "Name": "Tân Thới Hòa",
+       "NameEn": "Tan Thoi Hoa",
+       "FullName": "Phường Tân Thới Hòa",
+       "FullNameEn": "Tan Thoi Hoa Ward",
+       "CodeName": "tan_thoi_hoa",
+       "DistrictCode": "767"
+      }
+     ]
+    },
+    {
+     "Code": "768",
+     "Name": "Phú Nhuận",
+     "NameEn": "Phu Nhuan",
+     "FullName": "Quận Phú Nhuận",
+     "FullNameEn": "Phu Nhuan District",
+     "CodeName": "phu_nhuan",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27043",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27046",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27049",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27052",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27055",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27058",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27061",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27064",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27067",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27070",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27073",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27076",
+       "Name": "17",
+       "NameEn": "17",
+       "FullName": "Phường 17",
+       "FullNameEn": "Ward 17",
+       "CodeName": "17",
+       "DistrictCode": "768"
+      },
+      {
+       "Code": "27085",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "768"
+      }
+     ]
+    },
+    {
+     "Code": "769",
+     "Name": "Thủ Đức",
+     "NameEn": "Thu Duc",
+     "FullName": "Thành phố Thủ Đức",
+     "FullNameEn": "Thu Duc City",
+     "CodeName": "thu_duc",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "26794",
+       "Name": "Linh Xuân",
+       "NameEn": "Linh Xuan",
+       "FullName": "Phường Linh Xuân",
+       "FullNameEn": "Linh Xuan Ward",
+       "CodeName": "linh_xuan",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26797",
+       "Name": "Bình Chiểu",
+       "NameEn": "Binh Chieu",
+       "FullName": "Phường Bình Chiểu",
+       "FullNameEn": "Binh Chieu Ward",
+       "CodeName": "binh_chieu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26800",
+       "Name": "Linh Trung",
+       "NameEn": "Linh Trung",
+       "FullName": "Phường Linh Trung",
+       "FullNameEn": "Linh Trung Ward",
+       "CodeName": "linh_trung",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26803",
+       "Name": "Tam Bình",
+       "NameEn": "Tam Binh",
+       "FullName": "Phường Tam Bình",
+       "FullNameEn": "Tam Binh Ward",
+       "CodeName": "tam_binh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26806",
+       "Name": "Tam Phú",
+       "NameEn": "Tam Phu",
+       "FullName": "Phường Tam Phú",
+       "FullNameEn": "Tam Phu Ward",
+       "CodeName": "tam_phu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26809",
+       "Name": "Hiệp Bình Phước",
+       "NameEn": "Hiep Binh Phuoc",
+       "FullName": "Phường Hiệp Bình Phước",
+       "FullNameEn": "Hiep Binh Phuoc Ward",
+       "CodeName": "hiep_binh_phuoc",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26812",
+       "Name": "Hiệp Bình Chánh",
+       "NameEn": "Hiep Binh Chanh",
+       "FullName": "Phường Hiệp Bình Chánh",
+       "FullNameEn": "Hiep Binh Chanh Ward",
+       "CodeName": "hiep_binh_chanh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26815",
+       "Name": "Linh Chiểu",
+       "NameEn": "Linh Chieu",
+       "FullName": "Phường Linh Chiểu",
+       "FullNameEn": "Linh Chieu Ward",
+       "CodeName": "linh_chieu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26818",
+       "Name": "Linh Tây",
+       "NameEn": "Linh Tay",
+       "FullName": "Phường Linh Tây",
+       "FullNameEn": "Linh Tay Ward",
+       "CodeName": "linh_tay",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26821",
+       "Name": "Linh Đông",
+       "NameEn": "Linh Dong",
+       "FullName": "Phường Linh Đông",
+       "FullNameEn": "Linh Dong Ward",
+       "CodeName": "linh_dong",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26824",
+       "Name": "Bình Thọ",
+       "NameEn": "Binh Tho",
+       "FullName": "Phường Bình Thọ",
+       "FullNameEn": "Binh Tho Ward",
+       "CodeName": "binh_tho",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26827",
+       "Name": "Trường Thọ",
+       "NameEn": "Truong Tho",
+       "FullName": "Phường Trường Thọ",
+       "FullNameEn": "Truong Tho Ward",
+       "CodeName": "truong_tho",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26830",
+       "Name": "Long Bình",
+       "NameEn": "Long Binh",
+       "FullName": "Phường Long Bình",
+       "FullNameEn": "Long Binh Ward",
+       "CodeName": "long_binh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26833",
+       "Name": "Long Thạnh Mỹ",
+       "NameEn": "Long Thanh My",
+       "FullName": "Phường Long Thạnh Mỹ",
+       "FullNameEn": "Long Thanh My Ward",
+       "CodeName": "long_thanh_my",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26836",
+       "Name": "Tân Phú",
+       "NameEn": "Tan Phu",
+       "FullName": "Phường Tân Phú",
+       "FullNameEn": "Tan Phu Ward",
+       "CodeName": "tan_phu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26839",
+       "Name": "Hiệp Phú",
+       "NameEn": "Hiep Phu",
+       "FullName": "Phường Hiệp Phú",
+       "FullNameEn": "Hiep Phu Ward",
+       "CodeName": "hiep_phu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26842",
+       "Name": "Tăng Nhơn Phú A",
+       "NameEn": "Tang Nhon Phu A",
+       "FullName": "Phường Tăng Nhơn Phú A",
+       "FullNameEn": "Tang Nhon Phu A Ward",
+       "CodeName": "tang_nhon_phu_a",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26845",
+       "Name": "Tăng Nhơn Phú B",
+       "NameEn": "Tang Nhon Phu B",
+       "FullName": "Phường Tăng Nhơn Phú B",
+       "FullNameEn": "Tang Nhon Phu B Ward",
+       "CodeName": "tang_nhon_phu_b",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26848",
+       "Name": "Phước Long B",
+       "NameEn": "Phuoc Long B",
+       "FullName": "Phường Phước Long B",
+       "FullNameEn": "Phuoc Long B Ward",
+       "CodeName": "phuoc_long_b",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26851",
+       "Name": "Phước Long A",
+       "NameEn": "Phuoc Long A",
+       "FullName": "Phường Phước Long A",
+       "FullNameEn": "Phuoc Long A Ward",
+       "CodeName": "phuoc_long_a",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26854",
+       "Name": "Trường Thạnh",
+       "NameEn": "Truong Thanh",
+       "FullName": "Phường Trường Thạnh",
+       "FullNameEn": "Truong Thanh Ward",
+       "CodeName": "truong_thanh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26857",
+       "Name": "Long Phước",
+       "NameEn": "Long Phuoc",
+       "FullName": "Phường Long Phước",
+       "FullNameEn": "Long Phuoc Ward",
+       "CodeName": "long_phuoc",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26860",
+       "Name": "Long Trường",
+       "NameEn": "Long Truong",
+       "FullName": "Phường Long Trường",
+       "FullNameEn": "Long Truong Ward",
+       "CodeName": "long_truong",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26863",
+       "Name": "Phước Bình",
+       "NameEn": "Phuoc Binh",
+       "FullName": "Phường Phước Bình",
+       "FullNameEn": "Phuoc Binh Ward",
+       "CodeName": "phuoc_binh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "26866",
+       "Name": "Phú Hữu",
+       "NameEn": "Phu Huu",
+       "FullName": "Phường Phú Hữu",
+       "FullNameEn": "Phu Huu Ward",
+       "CodeName": "phu_huu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27088",
+       "Name": "Thảo Điền",
+       "NameEn": "Thao Dien",
+       "FullName": "Phường Thảo Điền",
+       "FullNameEn": "Thao Dien Ward",
+       "CodeName": "thao_dien",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27091",
+       "Name": "An Phú",
+       "NameEn": "An Phu",
+       "FullName": "Phường An Phú",
+       "FullNameEn": "An Phu Ward",
+       "CodeName": "an_phu",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27094",
+       "Name": "An Khánh",
+       "NameEn": "An Khanh",
+       "FullName": "Phường An Khánh",
+       "FullNameEn": "An Khanh Ward",
+       "CodeName": "an_khanh",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27097",
+       "Name": "Bình Trưng Đông",
+       "NameEn": "Binh Trung Dong",
+       "FullName": "Phường Bình Trưng Đông",
+       "FullNameEn": "Binh Trung Dong Ward",
+       "CodeName": "binh_trung_dong",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27100",
+       "Name": "Bình Trưng Tây",
+       "NameEn": "Binh Trung Tay",
+       "FullName": "Phường Bình Trưng Tây",
+       "FullNameEn": "Binh Trung Tay Ward",
+       "CodeName": "binh_trung_tay",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27109",
+       "Name": "Cát Lái",
+       "NameEn": "Cat Lai",
+       "FullName": "Phường Cát Lái",
+       "FullNameEn": "Cat Lai Ward",
+       "CodeName": "cat_lai",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27112",
+       "Name": "Thạnh Mỹ Lợi",
+       "NameEn": "Thanh My Loi",
+       "FullName": "Phường Thạnh Mỹ Lợi",
+       "FullNameEn": "Thanh My Loi Ward",
+       "CodeName": "thanh_my_loi",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27115",
+       "Name": "An Lợi Đông",
+       "NameEn": "An Loi Dong",
+       "FullName": "Phường An Lợi Đông",
+       "FullNameEn": "An Loi Dong Ward",
+       "CodeName": "an_loi_dong",
+       "DistrictCode": "769"
+      },
+      {
+       "Code": "27118",
+       "Name": "Thủ Thiêm",
+       "NameEn": "Thu Thiem",
+       "FullName": "Phường Thủ Thiêm",
+       "FullNameEn": "Thu Thiem Ward",
+       "CodeName": "thu_thiem",
+       "DistrictCode": "769"
+      }
+     ]
+    },
+    {
+     "Code": "770",
+     "Name": "3",
+     "NameEn": "3",
+     "FullName": "Quận 3",
+     "FullNameEn": "District 3",
+     "CodeName": "3",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27127",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27130",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27133",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27136",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27139",
+       "Name": "Võ Thị Sáu",
+       "NameEn": "Vo Thi Sau",
+       "FullName": "Phường Võ Thị Sáu",
+       "FullNameEn": "Vo Thi Sau Ward",
+       "CodeName": "vo_thi_sau",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27142",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27145",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27148",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27151",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27154",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27157",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "770"
+      },
+      {
+       "Code": "27160",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "770"
+      }
+     ]
+    },
+    {
+     "Code": "771",
+     "Name": "10",
+     "NameEn": "10",
+     "FullName": "Quận 10",
+     "FullNameEn": "District 10",
+     "CodeName": "10",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27163",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27166",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27169",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27172",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27175",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27178",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27181",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27184",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27187",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27190",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27193",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27196",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27199",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "771"
+      },
+      {
+       "Code": "27202",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "771"
+      }
+     ]
+    },
+    {
+     "Code": "772",
+     "Name": "11",
+     "NameEn": "11",
+     "FullName": "Quận 11",
+     "FullNameEn": "District 11",
+     "CodeName": "11",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27208",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27211",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27214",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27217",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27220",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27223",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27226",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27229",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27232",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27235",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27238",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27241",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27244",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27247",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27250",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "772"
+      },
+      {
+       "Code": "27253",
+       "Name": "16",
+       "NameEn": "16",
+       "FullName": "Phường 16",
+       "FullNameEn": "Ward 16",
+       "CodeName": "16",
+       "DistrictCode": "772"
+      }
+     ]
+    },
+    {
+     "Code": "773",
+     "Name": "4",
+     "NameEn": "4",
+     "FullName": "Quận 4",
+     "FullNameEn": "District 4",
+     "CodeName": "4",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27259",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27262",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27265",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27268",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27271",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27277",
+       "Name": "18",
+       "NameEn": "18",
+       "FullName": "Phường 18",
+       "FullNameEn": "Ward 18",
+       "CodeName": "18",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27280",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27283",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27286",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27289",
+       "Name": "16",
+       "NameEn": "16",
+       "FullName": "Phường 16",
+       "FullNameEn": "Ward 16",
+       "CodeName": "16",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27292",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27295",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "773"
+      },
+      {
+       "Code": "27298",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "773"
+      }
+     ]
+    },
+    {
+     "Code": "774",
+     "Name": "5",
+     "NameEn": "5",
+     "FullName": "Quận 5",
+     "FullNameEn": "District 5",
+     "CodeName": "5",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27301",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27304",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27307",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27310",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27313",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27316",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27322",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27325",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27328",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27331",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27334",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27337",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27340",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "774"
+      },
+      {
+       "Code": "27343",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "774"
+      }
+     ]
+    },
+    {
+     "Code": "775",
+     "Name": "6",
+     "NameEn": "6",
+     "FullName": "Quận 6",
+     "FullNameEn": "District 6",
+     "CodeName": "6",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27346",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27349",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27352",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27355",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27358",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27361",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27364",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27367",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27370",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27373",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27376",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27379",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27382",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "775"
+      },
+      {
+       "Code": "27385",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "775"
+      }
+     ]
+    },
+    {
+     "Code": "776",
+     "Name": "8",
+     "NameEn": "8",
+     "FullName": "Quận 8",
+     "FullNameEn": "District 8",
+     "CodeName": "8",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27388",
+       "Name": "08",
+       "NameEn": "08",
+       "FullName": "Phường 08",
+       "FullNameEn": "Ward 08",
+       "CodeName": "08",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27391",
+       "Name": "02",
+       "NameEn": "02",
+       "FullName": "Phường 02",
+       "FullNameEn": "Ward 02",
+       "CodeName": "02",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27394",
+       "Name": "01",
+       "NameEn": "01",
+       "FullName": "Phường 01",
+       "FullNameEn": "Ward 01",
+       "CodeName": "01",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27397",
+       "Name": "03",
+       "NameEn": "03",
+       "FullName": "Phường 03",
+       "FullNameEn": "Ward 03",
+       "CodeName": "03",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27400",
+       "Name": "11",
+       "NameEn": "11",
+       "FullName": "Phường 11",
+       "FullNameEn": "Ward 11",
+       "CodeName": "11",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27403",
+       "Name": "09",
+       "NameEn": "09",
+       "FullName": "Phường 09",
+       "FullNameEn": "Ward 09",
+       "CodeName": "09",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27406",
+       "Name": "10",
+       "NameEn": "10",
+       "FullName": "Phường 10",
+       "FullNameEn": "Ward 10",
+       "CodeName": "10",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27409",
+       "Name": "04",
+       "NameEn": "04",
+       "FullName": "Phường 04",
+       "FullNameEn": "Ward 04",
+       "CodeName": "04",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27412",
+       "Name": "13",
+       "NameEn": "13",
+       "FullName": "Phường 13",
+       "FullNameEn": "Ward 13",
+       "CodeName": "13",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27415",
+       "Name": "12",
+       "NameEn": "12",
+       "FullName": "Phường 12",
+       "FullNameEn": "Ward 12",
+       "CodeName": "12",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27418",
+       "Name": "05",
+       "NameEn": "05",
+       "FullName": "Phường 05",
+       "FullNameEn": "Ward 05",
+       "CodeName": "05",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27421",
+       "Name": "14",
+       "NameEn": "14",
+       "FullName": "Phường 14",
+       "FullNameEn": "Ward 14",
+       "CodeName": "14",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27424",
+       "Name": "06",
+       "NameEn": "06",
+       "FullName": "Phường 06",
+       "FullNameEn": "Ward 06",
+       "CodeName": "06",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27427",
+       "Name": "15",
+       "NameEn": "15",
+       "FullName": "Phường 15",
+       "FullNameEn": "Ward 15",
+       "CodeName": "15",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27430",
+       "Name": "16",
+       "NameEn": "16",
+       "FullName": "Phường 16",
+       "FullNameEn": "Ward 16",
+       "CodeName": "16",
+       "DistrictCode": "776"
+      },
+      {
+       "Code": "27433",
+       "Name": "07",
+       "NameEn": "07",
+       "FullName": "Phường 07",
+       "FullNameEn": "Ward 07",
+       "CodeName": "07",
+       "DistrictCode": "776"
+      }
+     ]
+    },
+    {
+     "Code": "777",
+     "Name": "Bình Tân",
+     "NameEn": "Binh Tan",
+     "FullName": "Quận Bình Tân",
+     "FullNameEn": "Binh Tan District",
+     "CodeName": "binh_tan",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27436",
+       "Name": "Bình Hưng Hòa",
+       "NameEn": "Binh Hung Hoa",
+       "FullName": "Phường Bình Hưng Hòa",
+       "FullNameEn": "Binh Hung Hoa Ward",
+       "CodeName": "binh_hung_hoa",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27439",
+       "Name": "Bình Hưng Hoà A",
+       "NameEn": "Binh Hung Hoa A",
+       "FullName": "Phường Bình Hưng Hoà A",
+       "FullNameEn": "Binh Hung Hoa A Ward",
+       "CodeName": "binh_hung_hoa_a",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27442",
+       "Name": "Bình Hưng Hoà B",
+       "NameEn": "Binh Hung Hoa B",
+       "FullName": "Phường Bình Hưng Hoà B",
+       "FullNameEn": "Binh Hung Hoa B Ward",
+       "CodeName": "binh_hung_hoa_b",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27445",
+       "Name": "Bình Trị Đông",
+       "NameEn": "Binh Tri Dong",
+       "FullName": "Phường Bình Trị Đông",
+       "FullNameEn": "Binh Tri Dong Ward",
+       "CodeName": "binh_tri_dong",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27448",
+       "Name": "Bình Trị Đông A",
+       "NameEn": "Binh Tri Dong A",
+       "FullName": "Phường Bình Trị Đông A",
+       "FullNameEn": "Binh Tri Dong A Ward",
+       "CodeName": "binh_tri_dong_a",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27451",
+       "Name": "Bình Trị Đông B",
+       "NameEn": "Binh Tri Dong B",
+       "FullName": "Phường Bình Trị Đông B",
+       "FullNameEn": "Binh Tri Dong B Ward",
+       "CodeName": "binh_tri_dong_b",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27454",
+       "Name": "Tân Tạo",
+       "NameEn": "Tan Tao",
+       "FullName": "Phường Tân Tạo",
+       "FullNameEn": "Tan Tao Ward",
+       "CodeName": "tan_tao",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27457",
+       "Name": "Tân Tạo A",
+       "NameEn": "Tan Tao A",
+       "FullName": "Phường Tân Tạo A",
+       "FullNameEn": "Tan Tao A Ward",
+       "CodeName": "tan_tao_a",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27460",
+       "Name": "An Lạc",
+       "NameEn": "An Lac",
+       "FullName": "Phường An Lạc",
+       "FullNameEn": "An Lac Ward",
+       "CodeName": "an_lac",
+       "DistrictCode": "777"
+      },
+      {
+       "Code": "27463",
+       "Name": "An Lạc A",
+       "NameEn": "An Lac A",
+       "FullName": "Phường An Lạc A",
+       "FullNameEn": "An Lac A Ward",
+       "CodeName": "an_lac_a",
+       "DistrictCode": "777"
+      }
+     ]
+    },
+    {
+     "Code": "778",
+     "Name": "7",
+     "NameEn": "7",
+     "FullName": "Quận 7",
+     "FullNameEn": "District 7",
+     "CodeName": "7",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27466",
+       "Name": "Tân Thuận Đông",
+       "NameEn": "Tan Thuan Dong",
+       "FullName": "Phường Tân Thuận Đông",
+       "FullNameEn": "Tan Thuan Dong Ward",
+       "CodeName": "tan_thuan_dong",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27469",
+       "Name": "Tân Thuận Tây",
+       "NameEn": "Tan Thuan Tay",
+       "FullName": "Phường Tân Thuận Tây",
+       "FullNameEn": "Tan Thuan Tay Ward",
+       "CodeName": "tan_thuan_tay",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27472",
+       "Name": "Tân Kiểng",
+       "NameEn": "Tan Kieng",
+       "FullName": "Phường Tân Kiểng",
+       "FullNameEn": "Tan Kieng Ward",
+       "CodeName": "tan_kieng",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27475",
+       "Name": "Tân Hưng",
+       "NameEn": "Tan Hung",
+       "FullName": "Phường Tân Hưng",
+       "FullNameEn": "Tan Hung Ward",
+       "CodeName": "tan_hung",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27478",
+       "Name": "Bình Thuận",
+       "NameEn": "Binh Thuan",
+       "FullName": "Phường Bình Thuận",
+       "FullNameEn": "Binh Thuan Ward",
+       "CodeName": "binh_thuan",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27481",
+       "Name": "Tân Quy",
+       "NameEn": "Tan Quy",
+       "FullName": "Phường Tân Quy",
+       "FullNameEn": "Tan Quy Ward",
+       "CodeName": "tan_quy",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27484",
+       "Name": "Phú Thuận",
+       "NameEn": "Phu Thuan",
+       "FullName": "Phường Phú Thuận",
+       "FullNameEn": "Phu Thuan Ward",
+       "CodeName": "phu_thuan",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27487",
+       "Name": "Tân Phú",
+       "NameEn": "Tan Phu",
+       "FullName": "Phường Tân Phú",
+       "FullNameEn": "Tan Phu Ward",
+       "CodeName": "tan_phu",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27490",
+       "Name": "Tân Phong",
+       "NameEn": "Tan Phong",
+       "FullName": "Phường Tân Phong",
+       "FullNameEn": "Tan Phong Ward",
+       "CodeName": "tan_phong",
+       "DistrictCode": "778"
+      },
+      {
+       "Code": "27493",
+       "Name": "Phú Mỹ",
+       "NameEn": "Phu My",
+       "FullName": "Phường Phú Mỹ",
+       "FullNameEn": "Phu My Ward",
+       "CodeName": "phu_my",
+       "DistrictCode": "778"
+      }
+     ]
+    },
+    {
+     "Code": "783",
+     "Name": "Củ Chi",
+     "NameEn": "Cu Chi",
+     "FullName": "Huyện Củ Chi",
+     "FullNameEn": "Cu Chi District",
+     "CodeName": "cu_chi",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27496",
+       "Name": "Củ Chi",
+       "NameEn": "Cu Chi",
+       "FullName": "Thị trấn Củ Chi",
+       "FullNameEn": "Cu Chi Township",
+       "CodeName": "cu_chi",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27499",
+       "Name": "Phú Mỹ Hưng",
+       "NameEn": "Phu My Hung",
+       "FullName": "Xã Phú Mỹ Hưng",
+       "FullNameEn": "Phu My Hung Commune",
+       "CodeName": "phu_my_hung",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27502",
+       "Name": "An Phú",
+       "NameEn": "An Phu",
+       "FullName": "Xã An Phú",
+       "FullNameEn": "An Phu Commune",
+       "CodeName": "an_phu",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27505",
+       "Name": "Trung Lập Thượng",
+       "NameEn": "Trung Lap Thuong",
+       "FullName": "Xã Trung Lập Thượng",
+       "FullNameEn": "Trung Lap Thuong Commune",
+       "CodeName": "trung_lap_thuong",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27508",
+       "Name": "An Nhơn Tây",
+       "NameEn": "An Nhon Tay",
+       "FullName": "Xã An Nhơn Tây",
+       "FullNameEn": "An Nhon Tay Commune",
+       "CodeName": "an_nhon_tay",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27511",
+       "Name": "Nhuận Đức",
+       "NameEn": "Nhuan Duc",
+       "FullName": "Xã Nhuận Đức",
+       "FullNameEn": "Nhuan Duc Commune",
+       "CodeName": "nhuan_duc",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27514",
+       "Name": "Phạm Văn Cội",
+       "NameEn": "Pham Van Coi",
+       "FullName": "Xã Phạm Văn Cội",
+       "FullNameEn": "Pham Van Coi Commune",
+       "CodeName": "pham_van_coi",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27517",
+       "Name": "Phú Hòa Đông",
+       "NameEn": "Phu Hoa Dong",
+       "FullName": "Xã Phú Hòa Đông",
+       "FullNameEn": "Phu Hoa Dong Commune",
+       "CodeName": "phu_hoa_dong",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27520",
+       "Name": "Trung Lập Hạ",
+       "NameEn": "Trung Lap Ha",
+       "FullName": "Xã Trung Lập Hạ",
+       "FullNameEn": "Trung Lap Ha Commune",
+       "CodeName": "trung_lap_ha",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27523",
+       "Name": "Trung An",
+       "NameEn": "Trung An",
+       "FullName": "Xã Trung An",
+       "FullNameEn": "Trung An Commune",
+       "CodeName": "trung_an",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27526",
+       "Name": "Phước Thạnh",
+       "NameEn": "Phuoc Thanh",
+       "FullName": "Xã Phước Thạnh",
+       "FullNameEn": "Phuoc Thanh Commune",
+       "CodeName": "phuoc_thanh",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27529",
+       "Name": "Phước Hiệp",
+       "NameEn": "Phuoc Hiep",
+       "FullName": "Xã Phước Hiệp",
+       "FullNameEn": "Phuoc Hiep Commune",
+       "CodeName": "phuoc_hiep",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27532",
+       "Name": "Tân An Hội",
+       "NameEn": "Tan An Hoi",
+       "FullName": "Xã Tân An Hội",
+       "FullNameEn": "Tan An Hoi Commune",
+       "CodeName": "tan_an_hoi",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27535",
+       "Name": "Phước Vĩnh An",
+       "NameEn": "Phuoc Vinh An",
+       "FullName": "Xã Phước Vĩnh An",
+       "FullNameEn": "Phuoc Vinh An Commune",
+       "CodeName": "phuoc_vinh_an",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27538",
+       "Name": "Thái Mỹ",
+       "NameEn": "Thai My",
+       "FullName": "Xã Thái Mỹ",
+       "FullNameEn": "Thai My Commune",
+       "CodeName": "thai_my",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27541",
+       "Name": "Tân Thạnh Tây",
+       "NameEn": "Tan Thanh Tay",
+       "FullName": "Xã Tân Thạnh Tây",
+       "FullNameEn": "Tan Thanh Tay Commune",
+       "CodeName": "tan_thanh_tay",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27544",
+       "Name": "Hòa Phú",
+       "NameEn": "Hoa Phu",
+       "FullName": "Xã Hòa Phú",
+       "FullNameEn": "Hoa Phu Commune",
+       "CodeName": "hoa_phu",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27547",
+       "Name": "Tân Thạnh Đông",
+       "NameEn": "Tan Thanh Dong",
+       "FullName": "Xã Tân Thạnh Đông",
+       "FullNameEn": "Tan Thanh Dong Commune",
+       "CodeName": "tan_thanh_dong",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27550",
+       "Name": "Bình Mỹ",
+       "NameEn": "Binh My",
+       "FullName": "Xã Bình Mỹ",
+       "FullNameEn": "Binh My Commune",
+       "CodeName": "binh_my",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27553",
+       "Name": "Tân Phú Trung",
+       "NameEn": "Tan Phu Trung",
+       "FullName": "Xã Tân Phú Trung",
+       "FullNameEn": "Tan Phu Trung Commune",
+       "CodeName": "tan_phu_trung",
+       "DistrictCode": "783"
+      },
+      {
+       "Code": "27556",
+       "Name": "Tân Thông Hội",
+       "NameEn": "Tan Thong Hoi",
+       "FullName": "Xã Tân Thông Hội",
+       "FullNameEn": "Tan Thong Hoi Commune",
+       "CodeName": "tan_thong_hoi",
+       "DistrictCode": "783"
+      }
+     ]
+    },
+    {
+     "Code": "784",
+     "Name": "Hóc Môn",
+     "NameEn": "Hoc Mon",
+     "FullName": "Huyện Hóc Môn",
+     "FullNameEn": "Hoc Mon District",
+     "CodeName": "hoc_mon",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27559",
+       "Name": "Hóc Môn",
+       "NameEn": "Hoc Mon",
+       "FullName": "Thị trấn Hóc Môn",
+       "FullNameEn": "Hoc Mon Township",
+       "CodeName": "hoc_mon",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27562",
+       "Name": "Tân Hiệp",
+       "NameEn": "Tan Hiep",
+       "FullName": "Xã Tân Hiệp",
+       "FullNameEn": "Tan Hiep Commune",
+       "CodeName": "tan_hiep",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27565",
+       "Name": "Nhị Bình",
+       "NameEn": "Nhi Binh",
+       "FullName": "Xã Nhị Bình",
+       "FullNameEn": "Nhi Binh Commune",
+       "CodeName": "nhi_binh",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27568",
+       "Name": "Đông Thạnh",
+       "NameEn": "Dong Thanh",
+       "FullName": "Xã Đông Thạnh",
+       "FullNameEn": "Dong Thanh Commune",
+       "CodeName": "dong_thanh",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27571",
+       "Name": "Tân Thới Nhì",
+       "NameEn": "Tan Thoi Nhi",
+       "FullName": "Xã Tân Thới Nhì",
+       "FullNameEn": "Tan Thoi Nhi Commune",
+       "CodeName": "tan_thoi_nhi",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27574",
+       "Name": "Thới Tam Thôn",
+       "NameEn": "Thoi Tam Thon",
+       "FullName": "Xã Thới Tam Thôn",
+       "FullNameEn": "Thoi Tam Thon Commune",
+       "CodeName": "thoi_tam_thon",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27577",
+       "Name": "Xuân Thới Sơn",
+       "NameEn": "Xuan Thoi Son",
+       "FullName": "Xã Xuân Thới Sơn",
+       "FullNameEn": "Xuan Thoi Son Commune",
+       "CodeName": "xuan_thoi_son",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27580",
+       "Name": "Tân Xuân",
+       "NameEn": "Tan Xuan",
+       "FullName": "Xã Tân Xuân",
+       "FullNameEn": "Tan Xuan Commune",
+       "CodeName": "tan_xuan",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27583",
+       "Name": "Xuân Thới Đông",
+       "NameEn": "Xuan Thoi Dong",
+       "FullName": "Xã Xuân Thới Đông",
+       "FullNameEn": "Xuan Thoi Dong Commune",
+       "CodeName": "xuan_thoi_dong",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27586",
+       "Name": "Trung Chánh",
+       "NameEn": "Trung Chanh",
+       "FullName": "Xã Trung Chánh",
+       "FullNameEn": "Trung Chanh Commune",
+       "CodeName": "trung_chanh",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27589",
+       "Name": "Xuân Thới Thượng",
+       "NameEn": "Xuan Thoi Thuong",
+       "FullName": "Xã Xuân Thới Thượng",
+       "FullNameEn": "Xuan Thoi Thuong Commune",
+       "CodeName": "xuan_thoi_thuong",
+       "DistrictCode": "784"
+      },
+      {
+       "Code": "27592",
+       "Name": "Bà Điểm",
+       "NameEn": "Ba Diem",
+       "FullName": "Xã Bà Điểm",
+       "FullNameEn": "Ba Diem Commune",
+       "CodeName": "ba_diem",
+       "DistrictCode": "784"
+      }
+     ]
+    },
+    {
+     "Code": "785",
+     "Name": "Bình Chánh",
+     "NameEn": "Binh Chanh",
+     "FullName": "Huyện Bình Chánh",
+     "FullNameEn": "Binh Chanh District",
+     "CodeName": "binh_chanh",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27595",
+       "Name": "Tân Túc",
+       "NameEn": "Tan Tuc",
+       "FullName": "Thị trấn Tân Túc",
+       "FullNameEn": "Tan Tuc Township",
+       "CodeName": "tan_tuc",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27598",
+       "Name": "Phạm Văn Hai",
+       "NameEn": "Pham Van Hai",
+       "FullName": "Xã Phạm Văn Hai",
+       "FullNameEn": "Pham Van Hai Commune",
+       "CodeName": "pham_van_hai",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27601",
+       "Name": "Vĩnh Lộc A",
+       "NameEn": "Vinh Loc A",
+       "FullName": "Xã Vĩnh Lộc A",
+       "FullNameEn": "Vinh Loc A Commune",
+       "CodeName": "vinh_loc_a",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27604",
+       "Name": "Vĩnh Lộc B",
+       "NameEn": "Vinh Loc B",
+       "FullName": "Xã Vĩnh Lộc B",
+       "FullNameEn": "Vinh Loc B Commune",
+       "CodeName": "vinh_loc_b",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27607",
+       "Name": "Bình Lợi",
+       "NameEn": "Binh Loi",
+       "FullName": "Xã Bình Lợi",
+       "FullNameEn": "Binh Loi Commune",
+       "CodeName": "binh_loi",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27610",
+       "Name": "Lê Minh Xuân",
+       "NameEn": "Le Minh Xuan",
+       "FullName": "Xã Lê Minh Xuân",
+       "FullNameEn": "Le Minh Xuan Commune",
+       "CodeName": "le_minh_xuan",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27613",
+       "Name": "Tân Nhựt",
+       "NameEn": "Tan Nhut",
+       "FullName": "Xã Tân Nhựt",
+       "FullNameEn": "Tan Nhut Commune",
+       "CodeName": "tan_nhut",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27616",
+       "Name": "Tân Kiên",
+       "NameEn": "Tan Kien",
+       "FullName": "Xã Tân Kiên",
+       "FullNameEn": "Tan Kien Commune",
+       "CodeName": "tan_kien",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27619",
+       "Name": "Bình Hưng",
+       "NameEn": "Binh Hung",
+       "FullName": "Xã Bình Hưng",
+       "FullNameEn": "Binh Hung Commune",
+       "CodeName": "binh_hung",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27622",
+       "Name": "Phong Phú",
+       "NameEn": "Phong Phu",
+       "FullName": "Xã Phong Phú",
+       "FullNameEn": "Phong Phu Commune",
+       "CodeName": "phong_phu",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27625",
+       "Name": "An Phú Tây",
+       "NameEn": "An Phu Tay",
+       "FullName": "Xã An Phú Tây",
+       "FullNameEn": "An Phu Tay Commune",
+       "CodeName": "an_phu_tay",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27628",
+       "Name": "Hưng Long",
+       "NameEn": "Hung Long",
+       "FullName": "Xã Hưng Long",
+       "FullNameEn": "Hung Long Commune",
+       "CodeName": "hung_long",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27631",
+       "Name": "Đa Phước",
+       "NameEn": "Da Phuoc",
+       "FullName": "Xã Đa Phước",
+       "FullNameEn": "Da Phuoc Commune",
+       "CodeName": "da_phuoc",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27634",
+       "Name": "Tân Quý Tây",
+       "NameEn": "Tan Quy Tay",
+       "FullName": "Xã Tân Quý Tây",
+       "FullNameEn": "Tan Quy Tay Commune",
+       "CodeName": "tan_quy_tay",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27637",
+       "Name": "Bình Chánh",
+       "NameEn": "Binh Chanh",
+       "FullName": "Xã Bình Chánh",
+       "FullNameEn": "Binh Chanh Commune",
+       "CodeName": "binh_chanh",
+       "DistrictCode": "785"
+      },
+      {
+       "Code": "27640",
+       "Name": "Quy Đức",
+       "NameEn": "Quy Duc",
+       "FullName": "Xã Quy Đức",
+       "FullNameEn": "Quy Duc Commune",
+       "CodeName": "quy_duc",
+       "DistrictCode": "785"
+      }
+     ]
+    },
+    {
+     "Code": "786",
+     "Name": "Nhà Bè",
+     "NameEn": "Nha Be",
+     "FullName": "Huyện Nhà Bè",
+     "FullNameEn": "Nha Be District",
+     "CodeName": "nha_be",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27643",
+       "Name": "Nhà Bè",
+       "NameEn": "Nha Be",
+       "FullName": "Thị trấn Nhà Bè",
+       "FullNameEn": "Nha Be Township",
+       "CodeName": "nha_be",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27646",
+       "Name": "Phước Kiển",
+       "NameEn": "Phuoc Kien",
+       "FullName": "Xã Phước Kiển",
+       "FullNameEn": "Phuoc Kien Commune",
+       "CodeName": "phuoc_kien",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27649",
+       "Name": "Phước Lộc",
+       "NameEn": "Phuoc Loc",
+       "FullName": "Xã Phước Lộc",
+       "FullNameEn": "Phuoc Loc Commune",
+       "CodeName": "phuoc_loc",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27652",
+       "Name": "Nhơn Đức",
+       "NameEn": "Nhon Duc",
+       "FullName": "Xã Nhơn Đức",
+       "FullNameEn": "Nhon Duc Commune",
+       "CodeName": "nhon_duc",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27655",
+       "Name": "Phú Xuân",
+       "NameEn": "Phu Xuan",
+       "FullName": "Xã Phú Xuân",
+       "FullNameEn": "Phu Xuan Commune",
+       "CodeName": "phu_xuan",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27658",
+       "Name": "Long Thới",
+       "NameEn": "Long Thoi",
+       "FullName": "Xã Long Thới",
+       "FullNameEn": "Long Thoi Commune",
+       "CodeName": "long_thoi",
+       "DistrictCode": "786"
+      },
+      {
+       "Code": "27661",
+       "Name": "Hiệp Phước",
+       "NameEn": "Hiep Phuoc",
+       "FullName": "Xã Hiệp Phước",
+       "FullNameEn": "Hiep Phuoc Commune",
+       "CodeName": "hiep_phuoc",
+       "DistrictCode": "786"
+      }
+     ]
+    },
+    {
+     "Code": "787",
+     "Name": "Cần Giờ",
+     "NameEn": "Can Gio",
+     "FullName": "Huyện Cần Giờ",
+     "FullNameEn": "Can Gio District",
+     "CodeName": "can_gio",
+     "ProvinceCode": "79",
+     "Ward": [
+      {
+       "Code": "27664",
+       "Name": "Cần Thạnh",
+       "NameEn": "Can Thanh",
+       "FullName": "Thị trấn Cần Thạnh",
+       "FullNameEn": "Can Thanh Township",
+       "CodeName": "can_thanh",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27667",
+       "Name": "Bình Khánh",
+       "NameEn": "Binh Khanh",
+       "FullName": "Xã Bình Khánh",
+       "FullNameEn": "Binh Khanh Commune",
+       "CodeName": "binh_khanh",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27670",
+       "Name": "Tam Thôn Hiệp",
+       "NameEn": "Tam Thon Hiep",
+       "FullName": "Xã Tam Thôn Hiệp",
+       "FullNameEn": "Tam Thon Hiep Commune",
+       "CodeName": "tam_thon_hiep",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27673",
+       "Name": "An Thới Đông",
+       "NameEn": "An Thoi Dong",
+       "FullName": "Xã An Thới Đông",
+       "FullNameEn": "An Thoi Dong Commune",
+       "CodeName": "an_thoi_dong",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27676",
+       "Name": "Thạnh An",
+       "NameEn": "Thanh An",
+       "FullName": "Xã Thạnh An",
+       "FullNameEn": "Thanh An Commune",
+       "CodeName": "thanh_an",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27679",
+       "Name": "Long Hòa",
+       "NameEn": "Long Hoa",
+       "FullName": "Xã Long Hòa",
+       "FullNameEn": "Long Hoa Commune",
+       "CodeName": "long_hoa",
+       "DistrictCode": "787"
+      },
+      {
+       "Code": "27682",
+       "Name": "Lý Nhơn",
+       "NameEn": "Ly Nhon",
+       "FullName": "Xã Lý Nhơn",
+       "FullNameEn": "Ly Nhon Commune",
+       "CodeName": "ly_nhon",
+       "DistrictCode": "787"
+      }
+     ]
+    }
+   ]
+  }

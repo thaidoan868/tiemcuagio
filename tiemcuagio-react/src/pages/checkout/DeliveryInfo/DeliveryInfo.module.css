@@ -1,0 +1,45 @@
+.deliveryInfo {
+    margin: 30px 0;
+
+    max-width: 600px;
+    line-height: 2em;
+    color: hsl(0, 0%, 20%);
+    
+    h1 {
+        margin-bottom: 10px !important;
+        font-size: 1.2em;
+        font-weight: 600;
+        color: hsl(0, 0%, 20%) !important;
+    }
+
+    table {
+        td {
+            min-width: 10ch;
+
+            &:first-child {
+                font-weight: bold;
+            }
+        }
+    }
+
+    p.paymentMethod {
+        margin-top: 20px;
+        font-weight: bold;
+        span {
+            font-weight: normal;
+        }
+    }
+
+    .money {
+        color: var(--blue5);
+        font-size: 1.5em;
+
+        &:first-child {
+            margin-left: 5px;
+        }
+
+        &:last-child {
+            font-size: 1em;
+        }
+    }
+}

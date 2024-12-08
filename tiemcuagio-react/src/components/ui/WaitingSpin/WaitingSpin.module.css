@@ -1,0 +1,62 @@
+@property --angle {
+    syntax: "<angle>";
+    initial-value: 360deg;
+    inherits: false;
+}
+@keyframes spin {
+    50% {
+        rotate: var(--angle);
+    }
+}
+.waitingSpin {
+    --backgroundColor:  hsl(157 85% 45%);
+    --color: white;
+    --time: 3s;
+
+
+    width: 100%;
+    height: 100%;
+    min-height: 100px;
+    min-width: 100px;
+
+    .waitingBox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 100%;
+        height: 100%;
+
+        background-color: var(--backgroundColor);
+
+        p {
+            padding: 5px;
+            position: relative;
+            width: 50px;
+            aspect-ratio: 1/1;
+            border: 3px solid var(--color);
+
+            animation: spin var(--time) infinite ease-in-out;
+
+            &::after, &::before {
+                content: "";
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                translate: -50% -50%;
+
+                width: 100%;
+                height: 100%;
+                border: 3px solid var(--color);
+            }
+            &::after {
+                --angle : 30deg;
+                animation: spin var(--time) infinite ease-in-out;
+            }
+            &::before {
+                --angle : 60deg;
+                animation: spin var(--time) infinite ease-in-out;
+            }
+        }
+    }
+}

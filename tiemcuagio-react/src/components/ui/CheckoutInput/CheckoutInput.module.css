@@ -1,0 +1,43 @@
+.checkoutInput {
+    position: relative;;
+    input {
+        transition: 0.2s ease-out;
+        padding: 12px;
+        width: 80%;
+        outline: 1px solid hsl(0, 0%, 80%);
+        border: 2px solid transparent;
+
+
+
+        &:hover {
+            outline: 1px solid hsl(0, 0%, 40%);
+            border: 2px solid transparent;
+
+        }
+
+        &:focus {
+            border: 2px solid hsl(208 100% 50%);
+            outline: none;
+        }
+    }
+
+    label {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        padding: 5px 12px ;
+        font-size: .7em;
+        color: gray;
+
+    }
+}
+.inputChanged {
+    input {
+        padding: 20px 10px 5px 10px;
+    }
+    label {
+        display: block;
+    }
+}

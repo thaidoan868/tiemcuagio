@@ -1,0 +1,36 @@
+.qr {
+    p {
+        font-size: 1.8em;
+        text-align: center;
+    }
+    img {
+        margin: auto;
+        width: 400px;
+    }
+    .qrId {
+        font-size: 1em;
+        color: hsl(0, 0%, 20%);
+        line-height: 1.5em;
+    }
+}
+.successQr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 400px;
+    color: hsl(153 80% 47%);
+    .icon {
+        font-size: 4em;
+    }
+    p {
+        color: hsl(153 80% 40%);
+        font-size: 2em;
+    }
+    p.thankYou {
+        margin-top: 40px;
+        color: hsl(153 60% 40%);
+        font-size: 1.3em;
+    }
+}

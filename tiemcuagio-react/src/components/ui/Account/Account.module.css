@@ -1,0 +1,70 @@
+:root{
+    --color: 219;
+}
+.account {
+    display: flex;
+    align-items: center;
+
+    padding: 8px;
+    width: fit-content;
+    border-radius: 15px;
+
+    
+    &:hover {
+        background-color: hsl(var(--color), 25%, 90%);
+    }
+    
+    .icon {
+        font-size: 1em;
+        padding: .5em;
+        border-radius: 100px;
+        background-color: hsl(var(--color), 74%, 35%);
+        color: white;
+
+        &:hover{
+            cursor: pointer;
+        }
+
+    }
+
+    img {
+        width: 2.5em;
+        aspect-ratio: 1/1;
+        border-radius: 100%;
+
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .content{
+        margin-left: 10px;
+        font-size: .7em;
+        a {
+            text-decoration: none;
+            color: gray;
+        }
+        color: gray;
+
+        .title {
+            margin-bottom: 2px;
+            font-weight: bold;
+
+            &:hover a{
+                color: hsl(var(--color), 74%, 35%);
+                cursor: pointer;
+            }
+        }
+        button.description {
+            border: none;
+            padding: 0px;
+
+            background-color: transparent;
+            color: gray;
+            font-size: 1em;
+
+            &:hover {
+                color: var(--blue5);
+            }
+        }
+    }
+}

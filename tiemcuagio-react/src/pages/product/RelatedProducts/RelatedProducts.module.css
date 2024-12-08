@@ -1,0 +1,58 @@
+.loading {
+    .image {
+        background-color: white;
+        aspect-ratio: 10/2;
+        border-radius: 15px 15px 0 0;
+        overflow: hidden;
+    }
+    .itemsContainer {
+        background-color: white;
+        padding: 40px 20px;
+
+        .itemsFlexContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: space-between;
+
+            margin-top: 20px;
+
+            .itemContainer {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                width: 200px;
+
+                .imageContainer {
+                    aspect-ratio: 1/1;
+                    border-radius: 15px 15px 0 0;
+                    overflow: hidden;
+                }
+
+                .quickReview {
+                    margin-left: 30%;
+                }
+            }
+        }
+    }
+}
+
+
+.relatedProducts{
+    padding: 30px 20px;
+    background-color: white;
+    border-radius: 15px;
+    h1 {
+        margin-bottom: 30px;
+        color: hsl(0, 0%, 30%);
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+    .itemsFlexContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 40px;
+        
+    }
+}

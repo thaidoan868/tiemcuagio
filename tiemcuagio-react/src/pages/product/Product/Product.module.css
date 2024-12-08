@@ -1,0 +1,9 @@
+.product {
+    .flexContainer {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px 20px;
+        background-color: hsl(0, 0%, 90%);
+    }
+}

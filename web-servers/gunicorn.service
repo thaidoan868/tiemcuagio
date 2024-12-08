@@ -1,0 +1,16 @@
+[Unit]
+Description=gunicorn daemon
+After=network.target
+
+[Service]
+User=namvuong1402
+Group=namvuong1402
+WorkingDirectory=/home/namvuong1402/programming/python/web/tiemcuagio.io.vn/tiemcuagio_django
+ExecStart=/home/namvuong1402/programming/python/web/tiemcuagio.io.vn/.venv/bin/gunicorn \
+	--bind unix:/run/gunicorn.sock \
+	--name tiemcuagio \
+	--access-logfile log/gunicorn.log \
+	--error-logfile log/gunicorn.error.log \
+	tiemcuagio_django.wsgi:application
+[Install]
+WantedBy=multi-user.target

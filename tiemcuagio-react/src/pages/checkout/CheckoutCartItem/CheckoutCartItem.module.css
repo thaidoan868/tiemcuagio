@@ -1,0 +1,36 @@
+
+.checkoutCartItem {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    color: hsl(0, 0%, 30%);
+    
+    .image {
+        position: relative;
+
+        img {
+            width: 70px;
+            aspect-ratio: 1/1;
+        }
+
+        span {
+            position: absolute;
+            top: 0;
+            right: 0;
+            translate: 50% -50%;
+
+            padding: 5px;
+            background-color: grey;
+            color: white;
+            font-size: .7em;
+        }
+    }
+    .name {
+        font-size: .8em;
+        width: 70%;
+    }
+    .price {
+        margin-left: auto;
+    }
+}

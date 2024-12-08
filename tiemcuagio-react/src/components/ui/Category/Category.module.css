@@ -1,0 +1,19 @@
+.category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: hsl(241 23% 24%);
+    padding: 10px;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    .icon {
+        max-width: 60px;
+        margin-bottom: 15px;
+        border-radius: 100%;
+
+        overflow: hidden;
+    }
+}

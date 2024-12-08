@@ -1,0 +1,121 @@
+.reviewProduct {
+    --blue: hsl(217 100% 45%);
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+
+    .reviewImages {
+        display: flex;
+        flex-direction: column;
+        gap: 2%;
+
+        width: 50%;
+
+        .bigImage {
+            height: 78%;
+        }
+        
+        .smallImages{
+            height: 20%;
+            display: flex;
+            gap: 20px;
+
+            button {
+                height: 100%;
+                width: 25%;
+                border: 0;
+                padding: 5px;
+                background-color: white;
+                border-radius: 5px;
+                &:hover{
+                    background-color: gainsboro;
+                }
+            }
+            button.clicked {
+                border: 1px solid var(--blue);
+            }
+        }
+        
+    }
+    .reviewContent {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 50%;
+        font-size: .9em;
+
+        .reviewName {
+            font-size: 2.5em;
+            line-height: 1.3em;
+            &:hover {
+                color: var(--blue);
+            }
+        }
+
+        .reviewPrice {
+            font-size: 2em;
+            padding: 20px 15px;
+            background-color: hsl(217 0% 90%);
+            color: var(--blue);
+        }
+        .reviewId span {
+            color: var(--blue);
+        }
+        
+        p.addedToCart {
+            color: hsl(145 70% 40%);
+        }
+
+        .login {
+            font-size: 1.3em;
+            color: var(--yellow);
+        }
+        .reviewBuy {
+            display: flex;
+            gap: 10px;
+
+            .addToCart, .createOrder{
+                padding: 7px;
+                width: 50%;
+                border-radius: 7px;
+
+                transition: .2s;
+                font-size: 1em;
+                font-weight: bold;
+            }
+            .addToCart {
+                border: 1px solid var(--blue);
+                background-color: white;
+                color: var(--blue);
+                &:hover {
+                    background-color: var(--blue);
+                    color: white;
+                }
+                span {
+                    font-size: 1.3em;
+                }
+            }
+            .createOrder {
+                border: 0;
+                background-color: var(--blue);
+                color: white;
+
+                &:hover {
+                    background-color: hsl(217 100% 60%);
+;
+                }
+            }
+        }
+        a {
+            font-size: 1.3em;
+            color: hsl(0 100% 32%);
+            font-weight: bold;
+
+            &:hover {
+                color: black;
+            }
+        }
+
+    }
+}

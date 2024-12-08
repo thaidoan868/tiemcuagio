@@ -1,0 +1,165 @@
+.login {
+    width: fit-content;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    .loginButton {
+        button {
+            padding: .8em 1.5em;
+            border: none;
+            border-radius: 5px;
+
+            background-color: var(--blue5);
+            color: white;
+            font-size: 1em;
+            font-weight: bold;
+
+            &:hover {
+                background-color: var(--blue6);
+            }
+        }
+    }
+
+    .loginDisplay {
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        left: 0;
+
+        width: 100vw;
+        height: 100vh;
+
+        background-color: rgb(0, 0, 0, .4);
+
+        .loginContainer {
+            position: relative;
+            margin: auto;
+            margin-top: 8%;
+
+            width: fit-content;
+            border-radius: 10px;
+
+            background-color: white;
+
+            h1 {
+                padding: 20px 100px;
+                border-radius: 10px 10px 0 0 ;
+                background-color: var(--blue5);
+                color: white;
+                font-size: 1.5em;
+            }
+            .loading {
+                padding: 10px;
+                height: 400px;
+            }
+
+            form {
+                padding: 30px 20px;
+                
+                div {
+                    display: flex;
+                    margin-bottom: 20px;
+
+                    label {
+                        padding: 15px;
+                        border-radius: 5px 0 0 5px;
+
+                        font-size: 1.1em;
+                        background-color: var(--blue5);
+                        color: white;
+                    }
+
+                    input {
+                        padding: 10px 20px;
+                        border-radius: 0 5px 5px 0;
+                        border: 1px solid var(--grey7);
+                        border-left: none;
+                        outline: none;
+
+                        font-size: 1em;
+                        &:focus {
+                            border: 1px solid var(--blue5);
+                            border-left: none;
+
+                        }
+                    }
+                }
+
+                p.isError, p.isSuccess {
+                    text-align: center;
+                    margin: 10px;
+                }
+
+                p.isError {
+                    color: red;
+                }
+
+                p.isSuccess {
+                    color: var(--green4);
+                }
+
+                p.forgetPass {
+                    text-align: left;
+                    color: var(--blue5);
+                }
+
+                button {
+                    margin: 30px 0 10px 0;
+                    padding: 10px;
+                    width: 100%;
+                    border: none;
+                    border-radius: 5px;
+
+                    background-color: var(--blue5);
+                    color: white;
+                    font-size: 1.2em;
+                    font-weight: bold;
+                    text-align: center;
+
+                    &:hover {
+                        background-color: var(--blue6);
+                    }
+                }
+
+                p.signUp {
+                    margin-top: 10px;
+                    text-align: center;
+
+                    span {
+                        color: var(--blue5);
+                    }
+                }
+            }
+
+            button.close {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                translate: 0 -100%;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                padding: 10px;
+                box-sizing: content-box;
+                width: 1.4em;
+                aspect-ratio: 1;
+                border: 1px solid var(--grey7);
+                border-radius: 100%;
+
+                font-size: 1em;
+                background-color: transparent;
+                color: var(--grey7);
+                transition: .3s ease-out;
+
+                &:hover {
+                    color: var(--blue2);
+                    border-color: var(--blue2);
+                    rotate: -90deg;
+                }
+            }
+
+        }
+}
+}

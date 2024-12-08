@@ -1,0 +1,51 @@
+.checkoutForm {
+    border-right: 1px solid gainsboro;
+    padding: 50px;
+
+    h1 {
+        font-size: 1.5em;
+        margin-bottom: 40px;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        textarea {
+            display: block;
+            transition: .2s ease-out;
+            margin: 10px 0;
+            padding: 10px;
+            width: 50%;
+            height: 100px;
+
+            &:focus {
+                outline: none;
+                border: 2px solid hsl(206 100% 50%);
+            }
+        }
+            p {
+                font-weight: bold;
+                margin-bottom: 15px;
+                color: hsl(0, 0%, 20%);
+            }
+        button {
+            align-self: center;
+
+            padding: 10px;
+            width: 40%;
+            outline: none;
+            border: none;
+
+            font-size: 1.2em;
+            background-color: hsl(206 100% 50%);
+            color: white;
+
+            &:hover {
+                cursor: pointer;
+                background-color: hsl(206 100% 60%);
+            }
+        }
+    }
+}

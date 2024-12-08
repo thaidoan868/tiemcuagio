@@ -1,0 +1,36 @@
+.success {
+        display: flex;
+        gap: 20px;
+
+        padding: 40px;
+        color: hsl(0, 0%, 20%);
+        line-height: 1.5em;
+        
+        .icon, div p:first-child {
+            color: hsl(153 80% 47%);
+        }
+        .icon {
+            font-size: 3em;
+        }
+        .text p:first-child {
+            margin: 10px 0;
+            font-weight: bold;
+            font-size: 1.5em;
+
+            .deliveryInfo {
+                padding: 5px;
+                border: 1px solid hsl(0, 0%, 30%);
+            }
+        }
+        
+        a {
+            display: block;
+            width: fit-content;
+            margin-left: auto;
+            padding: 10px;
+
+            background-color: hsl(208 100% 50%);
+            color: aliceblue;
+            text-decoration: none;
+        }
+}

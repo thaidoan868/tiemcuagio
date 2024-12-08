@@ -1,0 +1,25 @@
+.productInfo {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 1.1em;
+    h1 {
+        margin-bottom: 30px;
+        padding: 15px;
+        background-color: hsl(0, 0%, 95%);
+        color: hsl(0, 0%, 10%);
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+    table {
+        td {
+            min-width: 200px;
+            padding: 10px;
+            color: hsl(0, 0%, 10%);
+
+            &:first-child {
+                color: hsl(0, 0%, 50%);
+            }
+        }
+    }
+}
