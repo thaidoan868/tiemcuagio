@@ -1,4 +1,4 @@
-#Tổng quan trang web TIỆM CỦA GIÓ
+# Tổng quan trang web TIỆM CỦA GIÓ
 
 
 # Tài khoản đăng nhập
@@ -15,11 +15,11 @@ Trang web bán bánh
 - NGười dùng có thể yêu cầu rút tiền dư trong tài khoản 
 - Xem trạng thái đơn hàng, hủy đơn
 - Nhận thông báo khi lên cấp và trạng thái đơn hàng thay đổi
-
+- 
 - Người dùng có cấp độ khác nhau
 - Sửa thông tin
 - Bình luận, trả lời bình luận
-
+- 
 - Trang admin chỉnh sửa nội dung trang web
 - Thêm sản phẩm, viết bài, duyệt đơn
 
