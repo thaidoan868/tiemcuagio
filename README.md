@@ -8,9 +8,8 @@ Trang web bán bánh
 
 **Admin panel:** https://namvuong.org/django/admin_panel/
 
-**username:** tiemcuagio_admin
+**username & password:** Xem trong CV
 
-**password:** cachmangthang8
 ## 2. Mục tiêu
 - Thêm vào giỏ hàng
 - Thanh toán trực tuyến, thanh toán dư sẽ lưu vào số dư trong tài khoản
